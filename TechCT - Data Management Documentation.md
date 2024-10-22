@@ -1306,7 +1306,7 @@ This document provides a summary of the entire workflow for analyzing the IOA (I
 
 #### Following Solution C Procedures
 - **Action**: Followed Solution C procedures for manual extraction of the JSON data and converting it to a structured format.
-  - Reference: [Solution C documentation](https://github.com/rdwyse/TechPT/blob/main/2023-247%20TechPT%20-%20Qualtrics%20Documentation.md#solution-c-data-extraction-procedure) in the Qualtrics guide.
+  - Reference: [Solution C documentation](https://github.com/rdwyse/TechCT/blob/main/2023-247%20TechPT%20-%20Qualtrics%20Documentation.md#solution-c-data-extraction-procedure) in the Qualtrics guide.
   - Saved output: `TechPT - 2024.10.16 - Solution C - IOA RAW Data Export.txt`.
 
 #### IOA Table Generation
