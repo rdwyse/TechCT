@@ -1332,7 +1332,7 @@ function provideVerbalPrompt(confMonitoringScores, confMonitoringFields) {
 ##### **Date:** 2024.08.07
 
 ###### **Issue Identified:**
-During the training session for **Case 3**, I identified that the mastery criteria were incorrectly programmed. The same criteria were applied across all study phases, rather than tailoring them to the specific items to be monitored in each phase. I allowed the session to continue without making immediate changes but later corrected the issue for future participants.
+During the Training Section T1: Attention and feedack  for **Case 3**, I identified that the mastery criteria were incorrectly programmed. The same criteria were applied across all study phases, rather than tailoring them to the specific items to be monitored in each phase. I allowed the session to continue without making immediate changes but later corrected the issue for future participants.
 
 - **Research Note:**  
   "Mastery criteria was wrong. Didn’t realize till part way through the session. Continued the session with no changes. Mastery criteria was met with all of the items. Went home and adjusted criteria for remaining participants. Will reflect change in documentation."
