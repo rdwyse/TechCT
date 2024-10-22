@@ -1,0 +1,14 @@
+Section,Cohen's Kappa,Percentage Agreement (%),Number of Observations,True Positive,False Positive,False Negative,True Negative,Total Agreement Count,Total Observation Count,Expected Agreement
+Entire Set,0.59170221,96.15384615,234,218,9,0,7,225,234,0.905800278
+ConfMonitoring1 vs SelfMonitoring1,,100,26,26,0,0,0,26,26,1
+ConfMonitoring2 vs SelfMonitoring2,,100,26,26,0,0,0,26,26,1
+ConfMonitoring3 vs SelfMonitoring3,0,96.15384615,26,25,1,0,0,25,26,0.961538462
+ConfMonitoring4 vs SelfMonitoring4,,100,26,26,0,0,0,26,26,1
+ConfMonitoring5 vs SelfMonitoring5,,100,26,26,0,0,0,26,26,1
+ConfMonitoring6 vs SelfMonitoring6,0.538461538,76.92307692,26,13,6,0,7,20,26,0.5
+ConfMonitoring6a_1 vs SelfMonitoring6a_1,0,96.15384615,26,25,1,0,0,25,26,0.961538462
+ConfMonitoring6a_2 vs SelfMonitoring6a_2,0,96.15384615,26,25,1,0,0,25,26,0.961538462
+ConfMonitoring6a_3 vs SelfMonitoring6a_3,,100,26,26,0,0,0,26,26,1
+"CaregiverID Case1, StudyPhase 3_T3",0.485714286,96.2962963,54,51,2,0,1,52,54,0.927983539
+"CaregiverID Case2, StudyPhase 3_T3",0,93.05555556,72,67,5,0,0,67,72,0.930555556
+"CaregiverID Case3, StudyPhase 3_T3",0.847457627,98.14814815,108,100,2,0,6,106,108,0.878600823

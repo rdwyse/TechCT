@@ -1,0 +1,12 @@
+Section,Cohen's Kappa,Percentage Agreement (%),Number of Observations,TN,FP,FN,TP
+Entire Set,0.276310443,81.02189781,137,103,8,18,8
+"CaregiverID Case1, StudyPhase 0_BL",-0.19047619,66.66666667,15,10,3,2,0
+"CaregiverID Case1, StudyPhase 2_T2",0.255319149,76.66666667,30,21,1,6,2
+"CaregiverID Case1, StudyPhase 5_RTB",,83.33333333,6,5,0,1,0
+"CaregiverID Case2, StudyPhase 0_BL",0.395604396,77.27272727,22,14,2,3,3
+"CaregiverID Case2, StudyPhase 5_RTB",,75,4,3,0,1,0
+"CaregiverID Case3, StudyPhase 0_BL",0.42,86.20689655,29,23,2,2,2
+"CaregiverID Case3, StudyPhase 1_T1",0.6,87.5,8,6,0,1,1
+"CaregiverID Case3, StudyPhase 2_T2",,66.66666667,6,4,0,2,0
+"CaregiverID Case3, StudyPhase 3_T3",,100,14,14,0,0,0
+"CaregiverID Case4, StudyPhase 5_RTB",,100,3,3,0,0,0

@@ -1,0 +1,476 @@
+InstanceID,EventNote,DateTimeStamp:,ResponseIDx,Respondent,CaregiverID,StudyPhase,SessionType,SessionCount,Merge_TotalSessionTrials,SessionBlockCount,TrialDirection,CareDirStart,CareDirEnd,SelfMonitoring1,SelfMonitoring2,SelfMonitoring3,SelfMonitoring4,SelfMonitoring5,SelfMonitoring6,SelfMonitoring6a_1,SelfMonitoring6a_2,SelfMonitoring6a_3,ConfResponse,ConfMonitoring1,ConfMonitoring2,ConfMonitoring3,ConfMonitoring4,ConfMonitoring5,ConfMonitoring6,ConfMonitoring6a_1,ConfMonitoring6a_2,ConfMonitoring6a_3,ConfChildResponse,ConfederateInteraction,ConfTrialNote,ConfSessionNote,IOAVideoName,IOAMonitoring1,IOAMonitoring2,IOAMonitoring3,IOAMonitoring4,IOAMonitoring5,IOAMonitoring6,IOAMonitoring6a_1,IOAMonitoring6a_2,IOAMonitoring6a_3,IOAChildResponse,IOAConfederateInteraction,IOATrialNote,IOASessionNote,IOAxCARE_Key,CONFxCARE_Key,IOAxCONF_Key,CONFxCARExIOA_Key
+0jiez2d4jx,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:55:58-04:00,R_6EnRY756TnRwnLE,1_CONF,Case3,0_BL,1_SC,1,26,2,,,,,,,,,,,,,,1,1,0,1,0,1,0,1,0,0_CO,0,Blocks were in bin. Forgot,,,,,,,,,,,,,,,,,,57,
+0mor6ievy3,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:17:44-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,11,5.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,90,,
+0pdyum6h4a,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:10:24-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,4,2,,2024-08-08T10:09:46-04:00,2024-08-08T10:10:14-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,53,,12
+0qq8ihmana,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:08:31-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,2,1,,2024-08-09T09:07:54-04:00,2024-08-09T09:08:20-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,,
+0v2i39o502,3.0_Care_T1_SC_TrialComplete,2024-08-07T10:06:03-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,25,12.5,,2024-08-07T10:05:18-04:00,2024-08-07T10:05:41-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,,
+122bmjl8z9,3.0_Conf_TX_SC_TrialComplete,2024-08-07T12:54:01-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,7,3.5,,,,,,,,,,,,,,1,1,0,1,1,1,1,1,0,0_CO,0,,,,,,,,,,,,,,,,,,38,,
+190h0sg5zi,3.0_Care_T3_SC_TrialComplete,2024-08-13T09:54:05-04:00,R_7udB4wn59HEKms1,0_CARE,Case2,3_T3,1_SC,4,7,3,,2024-08-13T09:53:10-04:00,2024-08-13T09:53:45-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,109,,
+1a1g5bddgm,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:40:46-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,25,12.5,,2024-08-08T10:40:04-04:00,2024-08-08T10:40:39-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,74,,33
+1bx298n6re,3.0_Care_T3_SC_TrialComplete,2024-08-15T09:22:34-04:00,R_1WvZtuDGg3qJOV3,0_CARE,Case1,3_T3,1_SC,5,5,2.5,,2024-08-15T09:21:50-04:00,2024-08-15T09:22:15-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127,,
+1dd4utxqq0,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:15:50-04:00,R_6maWLUgEEeHP9t8,1_CONF,Case3,3_T3,0_AC,4,1,0.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,118,
+1fv3xh81bn,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:17:05-04:00,R_6maWLUgEEeHP9t8,1_CONF,Case3,3_T3,0_AC,4,3,1.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,120,
+1lv6uae4sw,3.0_Conf_TX_SC_TrialComplete,2024-08-06T13:00:31-04:00,R_3tmvamyOaeoQzOp,1_CONF,Case2,0_BL,0_AC,1,4,0.5,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,22,
+1m1qkzerov,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:07:39-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,1,0.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,80,,
+1o43knm15a,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:03:05-04:00,R_7OGGnS9fS0JsZ2N,1_CONF,Case3,2_T2,1_SC,3,5,2.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,101,,
+1ruj52dgun,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:57:47-04:00,R_6zHIK3jpkfHvPIO,1_CONF,Case2,5_RTB,0_AC,5,1,0.5,,,,,,,,,,,,,,1,1,1,0,1,0,1,1,1,2_PC,0,,,,,,,,,,,,,,,,,,,130,
+1t1iowgtpt,3.0_IOA_TrialComplete,2024-09-18T17:43:50-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,1,1,1,1,0_CO,0,,,32,,108,43
+20biysgoz7,3.0_Conf_TX_SC_TrialComplete,2024-08-19T11:02:31-04:00,R_1BXcEEi0gQe3Lvl,1_CONF,Case1,5_RTB,0_AC,7,1,0.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,104,
+265y3yc7ii,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:49:52-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,12,6,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,0,0_CO,0,,,,,,,,,,,,,,,,,,12,,
+280ri7agrw,3.0_Conf_TX_SC_TrialComplete,2024-08-07T12:46:10-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,2,1,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,34,,
+28pb47eho7,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:45:14-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,8,4,,2024-08-07T09:44:14-04:00,2024-08-07T09:44:41-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,,
+2ahwij0p7v,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:45:11-04:00,R_3bOZSYhuPj3KrJw,1_CONF,Case3,0_BL,1_SC,1,21,2.5,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,51,
+2bfyuggo1e,3.0_Conf_TX_SC_TrialComplete,2024-08-07T10:06:50-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,26,13,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,26,,
+2d7xai8172,3.0_IOA_TrialComplete,2024-09-17T18:24:56-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,28,
+2dmnosc3or,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:12:15-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,5,2.5,,2024-08-08T10:11:38-04:00,2024-08-08T10:12:06-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,54,,13
+2ef79ggn0j,3.0_IOA_TrialComplete,2024-10-15T12:26:34-04:00,IOA-TrackingSession4,2_IOA,Case3,1_T1,1_SC,2,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_T1.MOV ,0,1,0,0,1,1,1,1,0,0_CO,0,,,47,,136,3
+2g9vpmc1s4,3.0_Care_T3_SC_TrialComplete,2024-08-15T09:23:25-04:00,R_1WvZtuDGg3qJOV3,0_CARE,Case1,3_T3,1_SC,5,6,3,,2024-08-15T09:22:42-04:00,2024-08-15T09:23:11-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128,,
+2ihhrtz5xp,3.0_Conf_TX_SC_TrialComplete,2024-08-07T12:51:20-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,5,2.5,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,1,1_PO,1,Had to restart caregiver guide **Addressed 2024.09.16**,,,,,,,,,,,,,,,,,36,,
+2lwr33pouv,3.0_IOA_TrialComplete,2024-09-17T18:13:31-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,0_AC,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,1,1,0,0_CO,0,"Child struggled with completing the task, and got distracted a few times 1:00",,,,23,
+2qbu30g72z,3.0_IOA_TrialComplete,2024-10-15T12:36:40-04:00,IOA-TrackingSession4,2_IOA,Case4,5_RTB,0_AC,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case4_2_RTB_AC.MOV ,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,142,
+2qwvmm07ui,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:36:47-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,22,11,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,71,95,30
+2r8rdssg9b,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:16:41-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,9,4.5,,2024-08-08T10:16:01-04:00,2024-08-08T10:16:33-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,58,,17
+2rgnz7tcni,3.0_IOA_TrialComplete,2024-09-18T17:50:53-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,0,1,1,1,1_PO,0,,,38,,114,49
+2wun2e4ikf,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:14:27-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,7,3.5,,2024-08-08T10:13:53-04:00,2024-08-08T10:14:21-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,56,,15
+2xq3906fvt,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:10:45-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,4,2,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,53,77,12
+305smus3na,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:41:21-04:00,R_3bOZSYhuPj3KrJw,1_CONF,Case3,0_BL,1_SC,1,18,1,,,,,,,,,,,,,,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,48,
+31e1dv8c0m,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:01:32-04:00,R_7OGGnS9fS0JsZ2N,1_CONF,Case3,2_T2,1_SC,3,3,1.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,99,,
+33u71gj78q,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:03:54-04:00,R_7OGGnS9fS0JsZ2N,1_CONF,Case3,2_T2,1_SC,3,6,3,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,102,123,41
+373cjw34g9,3.0_IOA_TrialComplete,2024-09-18T17:41:24-04:00,IOA-TrackingSession3,2_IOA,Case1,5_RTB,0_AC,7,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_7_RTB_AC,1,1,1,1,1,0,1,1,1,2_PC,0,Noticed that the child did eventually comply,,,,106,
+37po94yfh9,3.0_IOA_TrialComplete,2024-10-15T12:22:43-04:00,IOA-TrackingSession4,2_IOA,Case3,1_T1,1_SC,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_T1.MOV ,0,1,0,0,1,0,1,1,1,1_PO,1,Looked like some technical difficulties that had to be navigated (1:00),,45,,134,1
+383ug03yv7,3.0_IOA_TrialComplete,2024-10-15T12:16:29-04:00,IOA-TrackingSession4,2_IOA,Case1,5_RTB,1_SC,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_6_RTB_AC.MOV ,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,131,
+3ah2qrd08p,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:15:07-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,9,4.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,88,,
+3bjywc7ujz,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:25:17-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,6,3,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,7,
+3ft6sudajf,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:42:24-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,6,3,,2024-08-07T09:41:27-04:00,2024-08-07T09:42:00-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,
+3he8tyx9gc,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:46:18-04:00,R_3bOZSYhuPj3KrJw,1_CONF,Case3,0_BL,1_SC,1,22,3,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,52,
+3lbou8hk69,3.0_IOA_TrialComplete,2024-09-18T17:10:41-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,0,0,1,1,1,1,1,0_CO,0,,,8,,81,16
+3n532r5jem,3.0_IOA_TrialComplete,2024-09-17T18:35:13-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,1,2_PC,0,,,,,38,
+3wxuui1ah1,3.0_IOA_TrialComplete,2024-10-15T12:04:05-04:00,IOA-TrackingSession4,2_IOA,Case3,2_T2,0_AC,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_3_T2_SC and AC.mp4 ,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,124,
+40ak3djufz,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:37:24-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,2,1,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,2,,
+416zc67iv5,3.0_Conf_TX_SC_TrialComplete,2024-08-09T10:36:11-04:00,R_1tD6uMNpqoFo69y,1_CONF,Case1,2_T2,1_SC,4,2,1,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,93,,
+45q4d9w8ey,3.0_Conf_TX_SC_TrialComplete,2024-08-07T12:44:53-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,1,0.5,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,33,,
+474p3aa70a,3.0_IOA_TrialComplete,2024-10-15T12:14:38-04:00,IOA-TrackingSession4,2_IOA,Case2,5_RTB,0_AC,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_5_RTB.MOV ,1,1,1,0,1,0,1,1,1,2_PC,0,,,,,130,
+47wjgw3msn,3.0_Conf_TX_SC_TrialComplete,2024-08-07T10:02:06-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,21,10.5,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,1,,,,,,,,,,,,,,,,,,21,,
+4ai1otljxf,3.0_Conf_TX_SC_TrialComplete,2024-08-09T10:38:05-04:00,R_1tD6uMNpqoFo69y,1_CONF,Case1,2_T2,1_SC,4,4,2,,,,,,,,,,,,,0_Comply,1,0,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,95,,
+4mceyasf8e,3.0_Care_T2_SC_TrialComplete,2024-08-09T10:36:54-04:00,R_3zAZLFUyppSDzTP,0_CARE,Case1,2_T2,1_SC,4,3,1.5,,2024-08-09T10:36:24-04:00,2024-08-09T10:36:47-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,94,,
+4owdxidw7h,3.0_Conf_TX_SC_TrialComplete,2024-08-07T13:02:27-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,13,6.5,,,,,,,,,,,,,,1,1,0,1,0,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,44,,
+4p52jdcygg,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:48:49-04:00,R_3tDRMRmkbqwM4et,1_CONF,Case2,5_RTB,1_SC,5,4,2,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,,128,
+4r8z24dj0i,3.0_IOA_TrialComplete,2024-09-18T17:12:20-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,0,0,1,1,0,1,1,0_CO,0,,,10,,83,18
+4tmt7tp8k9,3.0_Conf_TX_SC_TrialComplete,2024-08-07T11:35:36-04:00,R_7dZqXlrRYuSlNeZ,1_CONF,Case2,1_T1,1_SC,2,2,1,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,28,,
+4wfnryqwqr,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:16:49-04:00,R_5h6miWI0O8vFXTR,1_CONF,Case1,0_BL,1_SC,1,1,0.5,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,60,
+5323y3y8fp,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:20:36-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,3,1.5,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,4,
+56g60rpg16,3.0_IOA_TrialComplete,2024-09-18T17:13:34-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,0,1,1,1,1_PO,0,,,11,,84,19
+59z28789f8,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:42:01-04:00,R_6oYpC4t8X0kXy1g,1_CONF,Case2,0_BL,0_AC,1,2,0.5,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,1,Requested to have placement on floor,,,,,,,,,,,,,,,,,,14,
+5af6ra23cu,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:43:38-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,27,13.5,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,76,100,35
+5gjmgk39wy,3.0_IOA_TrialComplete,2024-09-16T16:41:49-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,21,
+5ivcwqnz46,3.0_IOA_TrialComplete,2024-09-18T17:52:12-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,1,1,1,1,0_CO,0,,,40,,116,51
+5kppsokdd1,3.0_Care_T2_SC_TrialComplete,2024-08-09T10:36:07-04:00,R_3zAZLFUyppSDzTP,0_CARE,Case1,2_T2,1_SC,4,2,1,,2024-08-09T10:35:32-04:00,2024-08-09T10:36:01-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93,,
+5lucgzh833,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:45:33-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,29,14.5,,2024-08-08T10:44:43-04:00,2024-08-08T10:45:27-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,78,,37
+5v8j76pz75,3.0_IOA_TrialComplete,2024-09-16T16:16:43-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,10,
+5y0bn6u2ew,3.0_IOA_TrialComplete,2024-09-18T17:07:36-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,0,1,1,1,1_PO,0,,,5,,78,13
+5zwvb1r8ht,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:08:37-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,9,4.5,,2024-08-14T09:07:57-04:00,2024-08-14T09:08:19-04:00,1,1,1,1,1,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38,119,,49
+63c7z22k5i,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:15:45-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,8,4,,,,,,,,,,,,,,1,1,0,1,0,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,57,81,16
+64rb2otz2n,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:47:31-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,10,5,,2024-08-07T09:46:34-04:00,2024-08-07T09:47:07-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,,
+66ecwnierd,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:03:03-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,3,1.5,,2024-08-14T09:02:08-04:00,2024-08-14T09:02:44-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33,113,,44
+6g3o8upj3g,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:50:43-04:00,R_1jOFsqq7TPeUEqX,1_CONF,Case2,3_T3,1_SC,4,4,2,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,106,,
+6gerjlplxb,3.0_Care_T1_SC_TrialComplete,2024-08-07T10:03:04-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,22,11,,2024-08-07T10:02:21-04:00,2024-08-07T10:02:46-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,,
+6gfrzmpdlk,3.0_IOA_TrialComplete,2024-09-18T17:45:50-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,0,1,1,1,1_PO,0,,,34,,110,45
+6i9ei5keqi,3.0_Care_T1_SC_TrialComplete,2024-08-07T10:00:23-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,20,10,,2024-08-07T09:59:43-04:00,2024-08-07T10:00:09-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,51,20,,7
+6jf8x6m65g,3.0_IOA_TrialComplete,2024-09-18T17:28:29-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,1,1,1,1,0_CO,0,,,24,,97,32
+6jyz2f2iw0,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:17:34-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,11,5.5,,2024-08-09T09:17:00-04:00,2024-08-09T09:17:25-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,,
+6k6s3bu510,3.0_IOA_TrialComplete,2024-09-18T17:02:45-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,0,0,1,0,0,0,1,1_PO,0,,,2,,75,10
+6k8sjxycjs,3.0_Care_T2_SC_TrialComplete,2024-08-09T10:38:01-04:00,R_3zAZLFUyppSDzTP,0_CARE,Case1,2_T2,1_SC,4,4,2,,2024-08-09T10:37:12-04:00,2024-08-09T10:37:55-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95,,
+6m6vsa6s4f,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:12:21-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,6,3,,2024-08-09T09:11:41-04:00,2024-08-09T09:12:12-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85,,
+6pgjlig23z,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:24:44-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,15,7.5,,2024-08-08T10:23:57-04:00,2024-08-08T10:24:28-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,64,,23
+6s5cbi2luc,3.0_IOA_TrialComplete,2024-09-16T16:22:17-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,13,
+6ucigy2n12,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:28:23-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,18,9,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,67,91,26
+6wigo9hbom,3.0_IOA_TrialComplete,2024-09-17T18:33:58-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,1,1,0,0,1,1,1,0,0,0_CO,0,,,,,37,
+72avvejb86,3.0_IOA_TrialComplete,2024-10-15T12:18:39-04:00,IOA-TrackingSession4,2_IOA,Case1,5_RTB,1_SC,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_6_RTB_AC.MOV ,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,133,
+734eninxvv,3.0_IOA_TrialComplete,2024-09-18T17:21:23-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,1,0,0,1,0_CO,0,Caregiver took ~4 sec for feedback,,18,,91,26
+73v7awwxz6,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:05:59-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,6,3,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,116,112,47
+76b6silt5i,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:18:11-04:00,R_5h6miWI0O8vFXTR,1_CONF,Case1,0_BL,1_SC,1,2,1,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,1,0_CO,0,Prompt to phone down,,,,,,,,,,,,,,,,,,61,
+77scmgllqe,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:16:57-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,9,4.5,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,58,82,17
+78t6tg7gtu,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:49:53-04:00,R_1jOFsqq7TPeUEqX,1_CONF,Case2,3_T3,1_SC,4,3,1.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,105,,
+7a7lq1imeb,3.0_Conf_TX_SC_TrialComplete,2024-08-07T13:00:59-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,12,6,,,,,,,,,,,,,,1,1,0,1,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,43,,
+7anv3ijurn,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:10:44-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,12,6,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,122,117,52
+7aqf14yysn,3.0_Care_T1_SC_TrialComplete,2024-08-07T13:04:48-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,15,7.5,,2024-08-07T13:03:57-04:00,2024-08-07T13:04:35-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46,,
+7bq0lhykpl,3.0_IOA_TrialComplete,2024-09-17T18:55:11-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,0,2_PC,0,,,,,52,
+7e9kq33mlo,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:47:37-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,10,5,,,,,,,,,,,,,,1,1,0,1,1,1,1,1,0,0_CO,0,,,,,,,,,,,,,,,,,,10,,
+7ng5gpmoms,3.0_IOA_TrialComplete,2024-09-17T19:02:04-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,0,2_PC,0,,,,,56,
+7o69hq0dlj,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:15:16-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,2,1,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,1,1_PO,1,I said perfect at the end,,,,,,,,,,,,,,,,,,25,
+7o936qd290,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:25:16-04:00,R_5h6miWI0O8vFXTR,1_CONF,Case1,0_BL,1_SC,1,6,3,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,65,
+7r45gr929e,3.0_IOA_TrialComplete,2024-09-18T15:46:24-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1-1-BL0,1,1,0,0,1,1,0,1,1,0_CO,0,,,,,61,
+81dosdzuc6,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:16:43-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,10,5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,89,,
+83jphwg4n3,3.0_IOA_TrialComplete,2024-10-15T12:01:47-04:00,IOA-TrackingSession4,2_IOA,Case3,2_T2,1_SC,3,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_3_T2_SC and AC.mp4 ,0,1,1,1,1,0,1,1,1,2_PC,0,,,44,,123,41
+84c2e101cp,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:16:28-04:00,R_6maWLUgEEeHP9t8,1_CONF,Case3,3_T3,0_AC,4,2,1,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,119,
+8c3dazi3qu,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:16:47-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,1,0.5,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,2,
+8e2xxkqr4y,3.0_IOA_TrialComplete,2024-09-18T15:52:10-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1-1-BL0,1,1,0,0,1,0,0,0,1,1_PO,0,Whiteboard had incorrect trial # listed,,,,64,
+8gmo86esfd,3.0_IOA_TrialComplete,2024-09-16T15:59:44-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,1,0,1,0,0_CO,1,Further clarification on task from confederate,,,,2,
+8gqe0yx6i3,3.0_Care_T1_SC_TrialComplete,2024-08-07T12:55:07-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,8,4,,2024-08-07T12:54:17-04:00,2024-08-07T12:54:53-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39,,
+8ie3mrou4h,3.0_Conf_TX_SC_TrialComplete,2024-08-19T11:03:13-04:00,R_1BXcEEi0gQe3Lvl,1_CONF,Case1,5_RTB,0_AC,7,2,1,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,1,Caregiver initiated end of trial,,,,,,,,,,,,,,,,,,105,
+8nyisqr5pk,3.0_IOA_TrialComplete,2024-09-17T18:23:26-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,0,2_PC,1,Confederate noted repetitiveness to caregiver 13:00,,,,27,
+8pixojvecd,3.0_Care_T2_SC_TrialComplete,2024-08-13T09:03:49-04:00,R_5noUFIIUfZ4ZBaa,0_CARE,Case3,2_T2,1_SC,3,6,3,,2024-08-13T09:03:15-04:00,2024-08-13T09:03:38-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44,102,,41
+8r6lv291ff,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:38:48-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,3,1.5,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,3,,
+8vur3c0n9e,3.0_IOA_TrialComplete,2024-10-15T12:30:42-04:00,IOA-TrackingSession4,2_IOA,Case3,1_T1,1_SC,2,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_T1.MOV ,0,1,0,0,1,1,0,1,1,0_CO,0,,,50,,139,6
+8wh84yaf60,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:41:15-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,5,2.5,,,,,,,,,,,,,,1,1,0,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,5,,
+8x99vdjc9y,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:19:57-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,12,6,,2024-08-08T10:19:16-04:00,2024-08-08T10:19:48-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,61,,20
+91eb9487kp,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:14:12-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,8,4,,2024-08-09T09:13:38-04:00,2024-08-09T09:14:01-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87,,
+98uajjki8o,3.0_IOA_TrialComplete,2024-09-18T15:42:23-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,0_AC,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1-1-BL0,1,1,0,0,1,1,0,1,1,0_CO,1,Caregiver asked if she was allowed to give child treat 1:00,,,,59,
+9b4dhcqlci,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:53:27-04:00,R_6EnRY756TnRwnLE,1_CONF,Case3,0_BL,1_SC,1,24,1,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,55,
+9b5uesrnaw,3.0_Conf_TX_SC_TrialComplete,2024-08-07T13:05:54-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,16,8,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,47,,
+9di50wq15n,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:06:07-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,6,3,,2024-08-14T09:05:18-04:00,2024-08-14T09:05:47-04:00,1,1,1,1,1,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,116,,47
+9dxbve0802,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:09:23-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,3,1.5,,2024-08-09T09:08:48-04:00,2024-08-09T09:09:13-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82,,
+9fawc06387,3.0_Care_T1_SC_TrialComplete,2024-08-07T12:46:12-04:00,R_3K8vuexsJCROurU,0_CARE,Case1,1_T1,1_SC,2,2,1,,2024-08-07T12:45:13-04:00,2024-08-07T12:45:53-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34,,
+9jris48ng4,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:28:06-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,18,9,,2024-08-08T10:27:22-04:00,2024-08-08T10:27:58-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,67,,26
+9jzbe1om92,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:27:09-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,17,8.5,,,,,,,,,,,,,,1,1,1,0,1,0,1,1,1,1_PO,1,,,,,,,,,,,,,,,,,,66,90,25
+9lpvslr0d4,3.0_Care_T1_SC_TrialComplete,2024-08-07T13:05:52-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,16,8,,2024-08-07T13:05:09-04:00,2024-08-07T13:05:36-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47,,
+9pp3uuy11f,3.0_IOA_TrialComplete,2024-10-15T12:39:31-04:00,IOA-TrackingSession4,2_IOA,Case4,5_RTB,0_AC,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case4_2_RTB_AC.MOV ,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,144,
+9s2fbspgnb,3.0_Conf_TX_SC_TrialComplete,2024-08-09T10:38:57-04:00,R_1tD6uMNpqoFo69y,1_CONF,Case1,2_T2,1_SC,4,5,2.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,96,,
+9tqvddipvs,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:48:55-04:00,R_1jOFsqq7TPeUEqX,1_CONF,Case2,3_T3,1_SC,4,2,1,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,0,1,0_CO,1,"Participant, accidently advanced the trial without self monitoring??? **Addressed 2024.09.16**",,,,,,,,,,,,,,,,,104,,
+9u24ug994x,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:56:24-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,17,8.5,,,,,,,,,,,,,,1,1,1,1,1,1,0,1,1,0_CO,0,,,,,,,,,,,,,,,,,,17,139,6
+9vaxpkqdjo,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:07:20-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,1,0.5,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,50,74,9
+9wu7i8iclo,3.0_Care_T2_SC_TrialComplete,2024-08-13T09:02:19-04:00,R_5noUFIIUfZ4ZBaa,0_CARE,Case3,2_T2,1_SC,3,4,2,,2024-08-13T09:01:42-04:00,2024-08-13T09:02:09-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,43,100,,40
+9xggbf71pt,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:25:57-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,16,8,,2024-08-08T10:25:18-04:00,2024-08-08T10:25:43-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,65,,24
+a4knedjuvn,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:34:59-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,12,6,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,13,
+a6mg339dt7,3.0_IOA_TrialComplete,2024-09-16T16:11:03-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,1,0,1,0,0_CO,0,Caregiver noted something she would typically do different with AC 16:20,,,,7,
+acoda2l9sc,3.0_Care_T3_SC_TrialComplete,2024-08-13T09:51:54-04:00,R_7udB4wn59HEKms1,0_CARE,Case2,3_T3,1_SC,4,5,2,,2024-08-13T09:51:04-04:00,2024-08-13T09:51:36-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,107,,
+aiumr70ncy,3.0_IOA_TrialComplete,2024-09-17T18:20:01-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,0,2_PC,0,,,,,25,
+arhq6xb8y5,3.0_IOA_TrialComplete,2024-09-18T16:11:43-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_1_BL1,0,1,0,0,1,0,0,0,1,2_PC,0,,,,,72,
+asaiklcoyp,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:16:40-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,10,5,,2024-08-09T09:16:04-04:00,2024-08-09T09:16:31-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89,,
+assm964nzn,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:12:32-04:00,R_1dLkp0YC9nxkAtI,1_CONF,Case3,2_T2,0_AC,3,2,1,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,125,
+aucaxt5gqq,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:59:28-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,19,9.5,,,,,,,,,,,,,,1,1,0,1,1,1,1,1,1,0_CO,1,Identified use of task specific,,,,,,,,,,,,,,,,,19,,
+awgsshyh5x,3.0_IOA_TrialComplete,2024-09-16T16:07:02-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,5,
+axd74c2h1n,3.0_IOA_TrialComplete,2024-10-15T12:12:03-04:00,IOA-TrackingSession4,2_IOA,Case2,5_RTB,1_SC,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_5_RTB.MOV ,0,1,1,0,1,0,1,1,1,1_PO,0,,,,,129,
+ay9xpkvfkq,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:27:32-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,12,6,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,38,
+aynncxlb59,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:56:22-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,17,8.5,,2024-08-07T09:55:31-04:00,2024-08-07T09:55:59-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50,17,,6
+b2cv0nv2g0,3.0_IOA_TrialComplete,2024-09-18T17:30:22-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,1,1,1,1,0_CO,1,Confederate provided further coaching 33:00,,25,,98,33
+b2yqtkzpa7,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:33:58-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,19,9.5,,2024-08-08T10:33:15-04:00,2024-08-08T10:33:50-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,68,,27
+b6s7qzxy89,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:02:21-04:00,R_7OGGnS9fS0JsZ2N,1_CONF,Case3,2_T2,1_SC,3,4,2,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,100,122,40
+b7fvxbjdpz,3.0_IOA_TrialComplete,2024-09-16T16:32:35-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,1,1,0,0,1,0,1,1,1,2_PC,0,,,,,17,
+bhzp6b8rix,3.0_Care_T1_SC_TrialComplete,2024-08-07T11:37:16-04:00,R_7J3INIbkek1cRD8,0_CARE,Case2,1_T1,1_SC,2,3,1.5,,2024-08-07T11:36:12-04:00,2024-08-07T11:36:54-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,,
+bk31g9rcg2,3.0_IOA_TrialComplete,2024-09-17T18:52:10-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,1,1,0,0_CO,1,Joke about drawing 39:30,,,,50,
+bk9wgqr4ul,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:51:40-04:00,R_3tDRMRmkbqwM4et,1_CONF,Case2,5_RTB,1_SC,5,7,3.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,,129,
+blj1ft9g6a,3.0_Care_T1_SC_TrialComplete,2024-08-07T12:58:36-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,10,5,,2024-08-07T12:57:50-04:00,2024-08-07T12:58:23-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41,,
+bmtkxgoqu1,3.0_IOA_TrialComplete,2024-09-16T16:20:13-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,12,
+bot3drnm3i,3.0_Conf_TX_SC_TrialComplete,2024-08-07T11:33:36-04:00,R_7dZqXlrRYuSlNeZ,1_CONF,Case2,1_T1,1_SC,2,1,0.5,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,27,,
+brtaudln5y,3.0_Conf_TX_SC_TrialComplete,2024-08-07T12:57:29-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,9,4.5,,,,,,,,,,,,,,1,1,0,0,0,1,0,1,1,0_CO,1,Prompted to place in hand.,,,,,,,,,,,,,,,,,40,,
+bsn1hjye9t,3.0_IOA_TrialComplete,2024-09-17T18:40:09-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,41,
+bvczagvhcw,3.0_IOA_TrialComplete,2024-09-18T17:55:29-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,0_AC,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,120,
+bxe7tfs2qu,3.0_IOA_TrialComplete,2024-09-16T16:02:56-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,0,0,0,0,1_PO,1,"Further explanation by confederate on when he will/not comply (""It's automated"") 9:05",,,,3,
+bym9gfok2z,3.0_IOA_TrialComplete,2024-09-18T15:49:02-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1-1-BL0,0,1,0,0,1,1,1,1,1,0_CO,0,,,,,63,
+bzgpdechqj,3.0_IOA_TrialComplete,2024-09-18T17:18:58-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,0,0,1,1,0,1,1,0_CO,0,,,15,,88,23
+bzpgcj844i,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:18:58-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,2,1,,,,,,,,,,,,,,1,1,0,0,0,0,0,0,1,1_PO,1,Mentioned random assignment ,,,,,,,,,,,,,,,,,,3,
+c6ctz66g56,3.0_Care_T1_SC_TrialComplete,2024-08-07T12:56:43-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,9,4.5,,2024-08-07T12:55:56-04:00,2024-08-07T12:56:33-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,,
+c7trp6h1on,3.0_Care_T3_SC_TrialComplete,2024-08-15T09:20:53-04:00,R_1WvZtuDGg3qJOV3,0_CARE,Case1,3_T3,1_SC,5,3,1.5,,2024-08-15T09:20:02-04:00,2024-08-15T09:20:30-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125,,
+c9o0v9ykd7,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:36:02-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,21,10.5,,,,,,,,,,,,,,1,1,1,1,1,1,0,1,1,0_CO,0,,,,,,,,,,,,,,,,,,70,94,29
+ceio20vzn7,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:18:58-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,5,2.5,,,,,,,,,,,,,,0,1,0,0,1,1,0,0,0,0_CO,0,,,,,,,,,,,,,,,,,,,28,
+cjdx8fs07r,3.0_IOA_TrialComplete,2024-09-17T18:20:47-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,1,1,0,0,0,1,0,1,0,0_CO,0,,,,,26,
+cn88ay3usm,3.0_Care_T1_SC_TrialComplete,2024-08-07T12:52:29-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,6,3,,2024-08-07T12:51:38-04:00,2024-08-07T12:52:11-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37,,
+ctu2c5a2ry,3.0_IOA_TrialComplete,2024-09-18T17:45:06-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,0,1,1,1,1,0_CO,0,Very neutral tone,,33,,109,44
+czm9gzky8g,3.0_IOA_TrialComplete,2024-09-17T18:28:33-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,30,
+d48wh2n8ca,3.0_IOA_TrialComplete,2024-09-16T16:29:31-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,15,
+d58j6dfoi3,3.0_IOA_TrialComplete,2024-09-18T17:32:01-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,1,1,1,1,0_CO,0,,,27,,100,35
+d5unjrtt0i,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:54:51-04:00,R_1jOFsqq7TPeUEqX,1_CONF,Case2,3_T3,1_SC,4,8,4,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,110,,
+d6l45fq2ri,3.0_IOA_TrialComplete,2024-09-18T17:14:45-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,1,1,1,1,0_CO,0,,,12,,85,20
+d8x2z310fx,3.0_IOA_TrialComplete,2024-09-18T17:20:18-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,0,1,1,1,1_PO,0,,,17,,90,25
+db92133qdh,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:43:48-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,7,3.5,,2024-08-07T09:42:58-04:00,2024-08-07T09:43:30-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47,7,,3
+df2gkwblbx,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:42:07-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,26,13,,2024-08-08T10:41:15-04:00,2024-08-08T10:41:58-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,75,,34
+dhz81nhvnu,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:28:58-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,13,6.5,,,,,,,,,,,,,,0,1,0,0,1,1,0,1,0,0_CO,1,Joke about drawing,,,,,,,,,,,,,,,,,,39,
+dlxp2tr2li,3.0_IOA_TrialComplete,2024-09-16T16:37:37-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,0_AC,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,1,1,0,0,1,1,0,1,0,0_CO,0,child got distracted on the way to comply with demand 43:00,,,,19,
+dnokw51592,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:23:27-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,14,7,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,63,87,22
+dpi1l0y4v4,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:48:42-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,11,5.5,,2024-08-07T09:47:50-04:00,2024-08-07T09:48:14-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48,11,,4
+dryhawmu93,3.0_Care_T3_SC_TrialComplete,2024-08-13T09:52:46-04:00,R_7udB4wn59HEKms1,0_CARE,Case2,3_T3,1_SC,4,6,2.5,,2024-08-13T09:51:59-04:00,2024-08-13T09:52:28-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,,
+e0z5265xq5,3.0_IOA_TrialComplete,2024-10-15T12:04:54-04:00,IOA-TrackingSession4,2_IOA,Case3,2_T2,0_AC,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_3_T2_SC and AC.mp4 ,0,1,1,1,1,1,1,1,1,0_CO,0,,,,,125,
+e2xpk6uyea,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:36:16-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,1,0.5,,2024-08-07T09:35:09-04:00,2024-08-07T09:35:34-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,1,,1
+e9j5fp5vc9,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:45:12-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,8,4,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,8,,
+e9jw781c6q,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:52:50-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,14,7,,,,,,,,,,,,,,1,1,0,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,14,138,5
+ea26882t36,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:46:20-04:00,R_3tDRMRmkbqwM4et,1_CONF,Case2,5_RTB,1_SC,5,1,0.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,1,,,,,,,,,,,,,,,,,,,127,
+eckfsmzhcu,3.0_IOA_TrialComplete,2024-09-16T16:12:55-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,1,1,0,0,1,1,0,1,0,0_CO,1,Joke about being old and having to get on the ground 17:45,,,,8,
+eelkwu9bs6,3.0_Conf_TX_SC_TrialComplete,2024-08-15T09:21:36-04:00,R_32Q0HaHaawwoVjr,1_CONF,Case1,3_T3,1_SC,5,4,2,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,126,,
+el8hjvj4ae,3.0_IOA_TrialComplete,2024-09-18T16:06:52-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_1_BL1,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,70,
+ep2dy3ktvg,3.0_Care_T1_SC_TrialComplete,2024-08-07T12:53:42-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,7,3.5,,2024-08-07T12:52:43-04:00,2024-08-07T12:53:28-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38,,
+eqklom8v8e,3.0_IOA_TrialComplete,2024-09-17T18:37:01-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,1,1,0,0_CO,1,Joke about drawing 24:15,,,,39,
+erudaj2unx,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:07:39-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,1,0.5,,2024-08-09T09:07:01-04:00,2024-08-09T09:07:26-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,,
+esp6cu9pzb,3.0_IOA_TrialComplete,2024-09-16T16:31:00-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,16,
+esxf9xbcco,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:08:28-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,9,4.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,119,114,49
+evzr333lzv,3.0_IOA_TrialComplete,2024-10-15T12:17:37-04:00,IOA-TrackingSession4,2_IOA,Case1,5_RTB,1_SC,6,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_6_RTB_AC.MOV ,1,1,1,1,1,0,1,1,1,2_PC,0,,,,,132,
+ewxfrj18h2,3.0_IOA_TrialComplete,2024-09-18T17:43:04-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,0,1,1,1,1_PO,0,,,31,,107,42
+ex7zhhy4hk,3.0_Care_T2_SC_TrialComplete,2024-08-13T09:00:40-04:00,R_5noUFIIUfZ4ZBaa,0_CARE,Case3,2_T2,1_SC,3,2,1,,2024-08-13T09:00:02-04:00,2024-08-13T09:00:29-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98,,
+ezencmrird,3.0_Conf_TX_SC_TrialComplete,2024-08-19T11:04:11-04:00,R_1BXcEEi0gQe3Lvl,1_CONF,Case1,5_RTB,0_AC,7,3,1.5,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,,106,
+f15kp3ycdz,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:17:48-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,10,5,,2024-08-08T10:17:08-04:00,2024-08-08T10:17:42-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,59,,18
+f35hc504yx,3.0_Conf_TX_SC_TrialComplete,2024-08-07T12:59:54-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,11,5.5,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,42,,
+f61mf134s8,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:35:59-04:00,R_1ta6uIudt9Q0TbH,1_CONF,Case1,0_BL,0_AC,1,2,0.5,,,,,,,,,,,,,,1,1,0,0,0,1,0,1,1,0_CO,0,Child talked to me,,,,,,,,,,,,,,,,,,66,
+fezz3o4qcl,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:21:08-04:00,R_5h6miWI0O8vFXTR,1_CONF,Case1,0_BL,1_SC,1,4,2,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,1,0_CO,1,I complied when I shouldn't have **Addressed 2024.09.16**,,,,,,,,,,,,,,,,,,63,
+fgqce5q409,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:13:20-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,7,3.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,86,,
+fos43axt8r,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:13:44-04:00,R_1dLkp0YC9nxkAtI,1_CONF,Case3,2_T2,0_AC,3,3,1.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,1,,,,,,,,,,,,,,,,,,,126,
+fr4p17schn,3.0_IOA_TrialComplete,2024-09-18T17:16:34-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,0,1,1,1,1_PO,0,,,13,,86,21
+fraw8xfwmz,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:14:13-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,8,4,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,87,,
+fs87q3s1ty,3.0_Conf_TX_SC_TrialComplete,2024-08-07T10:03:04-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,22,11,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,22,,
+g1p4exdh69,3.0_Conf_TX_SC_TrialComplete,2024-08-07T10:00:33-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,20,10,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,1,I complied **Addressed 2024.09.16**,,,,,,,,,,,,,,,,,20,140,7
+g278kkqemr,3.0_IOA_TrialComplete,2024-09-18T17:55:02-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,0_AC,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,0,1,1,1,1,0_CO,0,Questioning tone? 16:15ish,,,,119,
+g3ustmig5t,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:10:03-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,11,5.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,121,116,51
+gcxlocm6jn,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:25:56-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,16,8,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,1,,,,,,,,,,,,,,,,,,65,89,24
+ghbefk2p38,3.0_IOA_TrialComplete,2024-09-17T18:18:24-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,0,1,0,0,0,0_CO,0,,,,,24,
+ghmv00nmh9,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:54:16-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,15,7.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,15,,
+gjgzwzcxx9,3.0_IOA_TrialComplete,2024-09-17T18:53:14-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,1,1,0,0_CO,0,,,,,51,
+gju9tbgqm9,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:00:39-04:00,R_7OGGnS9fS0JsZ2N,1_CONF,Case3,2_T2,1_SC,3,2,1,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,1,,,,,,,,,,,,,,,,,,98,,
+gma9hpwu0p,3.0_IOA_TrialComplete,2024-09-18T17:31:15-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,1,1,1,1,0_CO,0,,,26,,99,34
+goxj844x7b,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:13:19-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,7,3.5,,2024-08-09T09:12:41-04:00,2024-08-09T09:13:09-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86,,
+grpy4vkmdw,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:48:31-04:00,R_6y2uz3oEwG9TFEG,1_CONF,Case1,0_BL,1_SC,1,12,3,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,1,1_PO,1,Joke about behavior,,,,,,,,,,,,,,,,,,72,
+gsywb0y6iu,3.0_Care_T1_SC_TrialComplete,2024-08-07T12:59:48-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,11,5.5,,2024-08-07T12:58:59-04:00,2024-08-07T12:59:35-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42,,
+guyh9dm7u2,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:10:05-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,11,5.5,,2024-08-14T09:09:23-04:00,2024-08-14T09:09:49-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,121,,51
+gvv8k8t7jh,3.0_IOA_TrialComplete,2024-10-15T12:05:53-04:00,IOA-TrackingSession4,2_IOA,Case3,2_T2,0_AC,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_3_T2_SC and AC.mp4 ,0,1,1,1,1,1,1,1,1,0_CO,0,,,,,126,
+gy4luaerp0,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:11:28-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,5,2.5,,2024-08-09T09:10:38-04:00,2024-08-09T09:11:17-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,84,,
+h1jnbdx1lz,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:52:49-04:00,R_71sPE0Gq1mnZ9cb,1_CONF,Case2,0_BL,0_AC,1,3,0.5,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,19,
+hinc6hwof3,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:21:39-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,13,6.5,,2024-08-08T10:21:07-04:00,2024-08-08T10:21:33-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,62,,21
+hj5bssexha,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:44:27-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,28,14,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,77,101,36
+hnlzj9937n,3.0_IOA_TrialComplete,2024-09-17T18:30:40-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,1,1,0,0_CO,1,Confederate checked phone for what to do 18:00,,,,34,
+hr9aj4gu90,3.0_Conf_TX_SC_TrialComplete,2024-08-09T10:37:01-04:00,R_1tD6uMNpqoFo69y,1_CONF,Case1,2_T2,1_SC,4,3,1.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,94,,
+hrdysp4y71,3.0_IOA_TrialComplete,2024-10-15T12:32:36-04:00,IOA-TrackingSession4,2_IOA,Case3,1_T1,1_SC,2,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_T1.MOV ,0,1,1,1,1,1,0,1,1,0_CO,0,,,51,,140,7
+hvtgkv9fld,3.0_Conf_TX_SC_TrialComplete,2024-08-07T12:58:43-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,10,5,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,41,,
+hwwu0nyltn,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:47:04-04:00,R_1jOFsqq7TPeUEqX,1_CONF,Case2,3_T3,1_SC,4,1,0.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,1,I made Reference to no comply,,,,,,,,,,,,,,,,,103,,
+i3t0cqu8xo,3.0_IOA_TrialComplete,2024-09-18T16:03:48-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_1_BL1,1,1,0,0,1,0,0,0,1,1_PO,0,,,,,68,
+i84nj8dpwb,3.0_Conf_TX_SC_TrialComplete,2024-08-15T09:19:40-04:00,R_32Q0HaHaawwoVjr,1_CONF,Case1,3_T3,1_SC,5,2,1,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,124,,
+iahde57cm8,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:38:53-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,24,12,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,73,97,32
+iawuqhau3a,3.0_Conf_TX_SC_TrialComplete,2024-08-07T13:03:35-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,14,7,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,45,,
+iaz4s4xnef,3.0_IOA_TrialComplete,2024-10-15T12:10:16-04:00,IOA-TrackingSession4,2_IOA,Case2,5_RTB,1_SC,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_5_RTB.MOV ,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,128,
+ibwmzvdmu9,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:09:18-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,10,5,,2024-08-14T09:08:41-04:00,2024-08-14T09:09:03-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39,120,,50
+irjdgx069j,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:58:13-04:00,R_3JUUsPLYEsKEOgJ,1_CONF,Case3,0_BL,0_AC,1,4,0.5,,,,,,,,,,,,,,0,1,0,0,0,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,58,
+itxw4jrm38,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:37:10-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,2,1,,2024-08-07T09:36:25-04:00,2024-08-07T09:36:53-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,
+iurux4d8kk,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:09:34-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,3,1.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,82,,
+ixqbg88c9g,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:03:52-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,4,2,,2024-08-14T09:03:08-04:00,2024-08-14T09:03:31-04:00,1,1,1,1,1,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34,114,,45
+j0rtbyxbvh,3.0_IOA_TrialComplete,2024-09-18T17:33:04-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,1,1,1,1,0_CO,0,,,28,,101,36
+j8lu5vx9rx,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:09:05-04:00,R_3sg5bxe1TFDhZiV,1_CONF,Case3,0_BL,0_AC,1,1,0.5,,,,,,,,,,,,,,1,0,0,0,1,1,0,1,0,0_CO,1,Some smiles when the child took a moment,,,,,,,,,,,,,,,,,,23,
+j9owpe9u4u,3.0_Conf_TX_SC_TrialComplete,2024-08-15T09:22:25-04:00,R_32Q0HaHaawwoVjr,1_CONF,Case1,3_T3,1_SC,5,5,2.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,127,,
+jauk391j4r,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:33:30-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,11,5.5,,,,,,,,,,,,,,1,1,0,1,1,0,0,1,0,1_PO,0,"Was a no comply, wasn't sure of task, she took it as a compliant",,,,,,,,,,,,,,,,,,12,
+jbq12keg6e,3.0_Care_T1_SC_TrialComplete,2024-08-07T10:04:08-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,23,11.5,,2024-08-07T10:03:20-04:00,2024-08-07T10:03:52-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,52,23,,8
+jc1k7c9yem,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:35:01-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,20,10,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,1,,,,,,,,,,,,,,,,,,69,93,28
+jiucokbggz,3.0_IOA_TrialComplete,2024-09-16T16:08:57-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,0,1,1,1,2_PC,1,Confederate said he forgot what he was supposed to do 14:15,,,,6,
+jjm57uwqzt,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:37:54-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,23,11.5,,,,,,,,,,,,,,1,1,1,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,72,96,31
+jnxcja4xzt,3.0_IOA_TrialComplete,2024-10-15T12:38:34-04:00,IOA-TrackingSession4,2_IOA,Case4,5_RTB,0_AC,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case4_2_RTB_AC.MOV ,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,143,
+jqtcx1bw9u,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:44:35-04:00,R_6SHwGFF8MoFNOD6,1_CONF,Case2,0_BL,1_SC,1,13,0.5,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,15,
+jv9wyewjup,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:52:50-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,14,7,,2024-08-07T09:52:00-04:00,2024-08-07T09:52:23-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,14,,5
+jve0bc8gh8,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:07:47-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,8,4,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,118,113,
+k0ay8aucra,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:02:59-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,3,1.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,113,109,44
+k54xjiw0n2,3.0_IOA_TrialComplete,2024-09-17T18:58:36-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,54,
+k7eqgjr1qd,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:07:09-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,1,0.5,,2024-08-08T10:06:20-04:00,2024-08-08T10:06:59-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,50,,9
+k7g0uooap7,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:08:21-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,2,1,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,51,75,10
+k81nionvca,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:22:38-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,8,4,,,,,,,,,,,,,,0,0,0,0,1,1,0,1,0,0_CO,1,Mentioned phone,,,,,,,,,,,,,,,,,,34,
+kd25b48510,3.0_IOA_TrialComplete,2024-09-18T17:38:41-04:00,IOA-TrackingSession3,2_IOA,Case1,5_RTB,0_AC,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_7_RTB_AC,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,104,
+knb5hiim9e,3.0_IOA_TrialComplete,2024-09-17T19:00:09-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,0,1,0,0_CO,0,Child interrupted briefly 48:30,,,,55,
+knmqioic3b,3.0_Care_T3_SC_TrialComplete,2024-08-15T09:19:56-04:00,R_1WvZtuDGg3qJOV3,0_CARE,Case1,3_T3,1_SC,5,2,1,,2024-08-15T09:19:02-04:00,2024-08-15T09:19:32-04:00,1,1,1,1,1,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124,,
+krfupqhwjb,3.0_Care_T3_SC_TrialComplete,2024-08-13T09:55:01-04:00,R_7udB4wn59HEKms1,0_CARE,Case2,3_T3,1_SC,4,8,3.5,,2024-08-13T09:54:10-04:00,2024-08-13T09:54:39-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,110,,
+kv07tghq0x,3.0_Conf_TX_SC_TrialComplete,2024-08-16T09:18:00-04:00,R_3mmygfbjKX47LfO,1_CONF,Case4,5_RTB,0_AC,2,3,1.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,144,
+kyy0ibw5h5,3.0_IOA_TrialComplete,2024-09-18T17:46:49-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,0,1,1,1,2_PC,0,,,35,,111,46
+l0dry5jou9,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:59:11-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,19,9.5,,2024-08-07T09:58:11-04:00,2024-08-07T09:58:44-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,,
+l4bnh1calr,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:25:04-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,15,7.5,,,,,,,,,,,,,,1,1,1,1,1,1,0,1,1,0_CO,1,Asked about written feedback,,,,,,,,,,,,,,,,,64,88,23
+l5f65rcabc,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:44:33-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,28,14,,2024-08-08T10:43:47-04:00,2024-08-08T10:44:16-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,77,,36
+l5j7rvaheg,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:15:39-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,8,4,,2024-08-08T10:14:59-04:00,2024-08-08T10:15:32-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,57,,16
+l78puidwmz,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:11:38-04:00,R_1dLkp0YC9nxkAtI,1_CONF,Case3,2_T2,0_AC,3,1,0.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,124,
+l8jyc3t9ic,3.0_IOA_TrialComplete,2024-09-16T16:40:16-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,1,1,0,0,1,0,1,1,1,2_PC,0,"child stayed in room, didn't seem to have impact on caregiver's behavior though",,,,20,
+l9qcvrx9ff,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:21:57-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,13,6.5,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,62,86,21
+layupsyiw7,3.0_Care_T3_SC_TrialComplete,2024-08-15T09:18:58-04:00,R_1WvZtuDGg3qJOV3,0_CARE,Case1,3_T3,1_SC,5,1,0.5,,2024-08-15T09:17:52-04:00,2024-08-15T09:18:25-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,,
+lf2fqwj8vs,3.0_Care_T1_SC_TrialComplete,2024-08-07T13:03:31-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,14,7,,2024-08-07T13:02:42-04:00,2024-08-07T13:03:16-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,,
+lfqkx1p8ft,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:52:51-04:00,R_1jOFsqq7TPeUEqX,1_CONF,Case2,3_T3,1_SC,4,6,3,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,1,Reference to no behavior quiet. I did,,,,,,,,,,,,,,,,,108,,
+lg3jm7u9y2,3.0_IOA_TrialComplete,2024-09-18T17:01:34-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,1,0,1,1,0_CO,0,,,1,,74,9
+lgau2v904v,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:16:28-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,3,1.5,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,26,
+lgcbdih7g4,3.0_IOA_TrialComplete,2024-09-18T17:09:50-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,0,1,1,1,2_PC,0,,,7,,80,15
+lhit1i4fo9,3.0_Conf_TX_SC_TrialComplete,2024-08-07T10:05:00-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,24,12,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,24,,
+lihoshct35,3.0_Conf_TX_SC_TrialComplete,2024-08-07T10:04:05-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,23,11.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,23,141,8
+lo14zq7949,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:51:35-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,13,6.5,,2024-08-07T09:50:43-04:00,2024-08-07T09:51:16-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,,
+lqhfah8avf,3.0_IOA_TrialComplete,2024-10-15T12:34:41-04:00,IOA-TrackingSession4,2_IOA,Case3,1_T1,1_SC,2,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_T1.MOV ,0,1,0,0,1,1,1,1,1,0_CO,0,,,52,,141,8
+m2oc7z1zit,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:04:59-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,5,2.5,,,,,,,,,,,,,0_Comply,1,1,0,1,1,1,0,1,1,0_CO,0,,,,,,,,,,,,,,,,,,115,111,46
+m8uvqwnkrw,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:57:25-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,18,9,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,18,,
+maxcjqdrw9,3.0_IOA_TrialComplete,2024-09-18T17:23:24-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,1,1,1,1,0_CO,1,Confederate provided some coaching/feedback to caregiver 23:00,,19,,92,27
+mexvv32614,3.0_IOA_TrialComplete,2024-10-15T12:29:24-04:00,IOA-TrackingSession4,2_IOA,Case3,1_T1,1_SC,2,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_T1.MOV ,1,1,0,0,1,0,1,1,1,1_PO,0,,,49,,138,5
+mftqsa41sf,3.0_Conf_TX_SC_TrialComplete,2024-08-13T08:59:41-04:00,R_7OGGnS9fS0JsZ2N,1_CONF,Case3,2_T2,1_SC,3,1,0.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,1,,,,,,,,,,,,,,,,,,97,121,39
+mgf1oxau16,3.0_Conf_TX_SC_TrialComplete,2024-08-07T11:39:26-04:00,R_7dZqXlrRYuSlNeZ,1_CONF,Case2,1_T1,1_SC,2,5,2.5,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,31,,
+mh1er4o7er,3.0_IOA_TrialComplete,2024-09-18T17:11:28-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,0,1,1,1,1_PO,0,,,9,,82,17
+mh2e79hmam,3.0_Conf_TX_SC_TrialComplete,2024-08-07T12:47:24-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,3,1.5,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,35,,
+mj3xvo3fg6,3.0_Conf_TX_SC_TrialComplete,2024-08-07T11:37:03-04:00,R_7dZqXlrRYuSlNeZ,1_CONF,Case2,1_T1,1_SC,2,3,1.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,29,,
+mlqxvlctuh,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:54:11-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,15,7.5,,2024-08-07T09:53:26-04:00,2024-08-07T09:53:53-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,,
+mof6vyp5qk,3.0_Care_T1_SC_TrialComplete,2024-08-07T10:05:12-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,24,12,,2024-08-07T10:04:22-04:00,2024-08-07T10:04:48-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,,
+mpi2rm6b1i,3.0_Conf_TX_SC_TrialComplete,2024-08-16T10:00:45-04:00,R_1c6MdC8hJIQmuyD,1_CONF,Case1,5_RTB,1_SC,6,7,3.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,133,
+mtoiot0mlo,3.0_Conf_TX_SC_TrialComplete,2024-08-07T11:40:29-04:00,R_7dZqXlrRYuSlNeZ,1_CONF,Case2,1_T1,1_SC,2,6,3,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,32,,
+mumw92rpde,3.0_IOA_TrialComplete,2024-09-18T17:39:52-04:00,IOA-TrackingSession3,2_IOA,Case1,5_RTB,0_AC,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_7_RTB_AC,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,105,
+mwwt50zvma,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:14:44-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,7,3.5,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,56,80,15
+mxq73lpgzv,3.0_IOA_TrialComplete,2024-09-17T18:48:55-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,1,1,0,0_CO,0,,,,,48,
+n1tmf8xdlh,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:46:15-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,30,15,,2024-08-08T10:45:40-04:00,2024-08-08T10:46:04-04:00,,,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,79,,38
+n5scr8ozlm,3.0_IOA_TrialComplete,2024-09-17T19:05:26-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,0_AC,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,58,
+n6ug7xzlvn,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:28:26-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,8,4,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,9,
+na3xhyfjq0,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:10:52-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,12,6,,2024-08-14T09:10:14-04:00,2024-08-14T09:10:34-04:00,1,1,1,1,1,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41,122,,52
+ncmbd91au8,3.0_IOA_TrialComplete,2024-09-17T18:32:39-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,36,
+nd0rmpg3pv,3.0_IOA_TrialComplete,2024-09-18T17:26:23-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,0,1,1,1,2_PC,1,,,22,,95,30
+ney3hgrhzn,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:46:34-04:00,R_6y2uz3oEwG9TFEG,1_CONF,Case1,0_BL,1_SC,1,11,2.5,,,,,,,,,,,,,,1,1,0,0,0,1,0,1,1,0_CO,0,Not sure what the direction was,,,,,,,,,,,,,,,,,,71,
+njbe6kn9ga,3.0_IOA_TrialComplete,2024-09-16T16:18:36-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,0,0,1,0,2_PC,1,Caregiver asked confederate to get blanket 21:35,,,,11,
+nkh50lx8bx,3.0_Care_T1_SC_TrialComplete,2024-08-07T10:01:44-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,21,10.5,,2024-08-07T10:01:00-04:00,2024-08-07T10:01:27-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,,
+nneqyyrric,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:34:09-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,19,9.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,1,Had just given verbal feedback,,,,,,,,,,,,,,,,,68,92,27
+noqxhyk78f,3.0_Conf_TX_SC_TrialComplete,2024-08-07T11:38:11-04:00,R_7dZqXlrRYuSlNeZ,1_CONF,Case2,1_T1,1_SC,2,4,2,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,30,,
+nqzlgfxx1e,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:55:18-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,16,8,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,16,,
+nufa2j4q87,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:41:41-04:00,R_6y2uz3oEwG9TFEG,1_CONF,Case1,0_BL,1_SC,1,8,1,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,1,1_PO,0,Had to check phone for no comply ,,,,,,,,,,,,,,,,,,68,
+nuojvsrak4,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:20:16-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,6,3,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,29,
+nyhoddoted,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:32:31-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,16,8,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,42,
+o06mztpbx5,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:38:51-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,3,1.5,,2024-08-07T09:37:48-04:00,2024-08-07T09:38:17-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,
+o1n9nyvq1v,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:46:30-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,30,15,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,79,103,38
+o2wdtm4y2g,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:09:34-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,3,1.5,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,1,0_CO,0,,,,,,,,,,,,,,,,,,52,76,11
+o37jreo054,3.0_Care_T1_SC_TrialComplete,2024-08-07T12:51:03-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,5,2.5,,2024-08-07T12:50:14-04:00,2024-08-07T12:50:48-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,,
+o4tal0rc4n,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:06:54-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,7,3.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,117,,48
+o6tjynhmm8,3.0_IOA_TrialComplete,2024-09-17T18:45:52-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,0_AC,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,0,0,0,0_CO,0,,,,,43,
+odey4rb8ki,3.0_Care_T1_SC_TrialComplete,2024-08-07T11:35:50-04:00,R_7J3INIbkek1cRD8,0_CARE,Case2,1_T1,1_SC,2,2,1,,2024-08-07T11:34:46-04:00,2024-08-07T11:35:19-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,,
+omyuc8kvj5,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:19:06-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,11,5.5,,,,,,,,,,,,,,1,1,0,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,60,84,19
+or7l6htn9m,3.0_IOA_TrialComplete,2024-09-16T16:33:47-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,18,
+ox85op7a90,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:47:31-04:00,R_6SHwGFF8MoFNOD6,1_CONF,Case2,0_BL,1_SC,1,15,1.5,,,,,,,,,,,,,,1,1,0,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,,17,
+oxtkhpea58,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:37:44-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,23,11.5,,2024-08-08T10:36:59-04:00,2024-08-08T10:37:28-04:00,,,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,72,,31
+p3h2noxcwo,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:10:55-04:00,R_33g9k5BC3tv4nfV,1_CONF,Case2,0_BL,0_AC,1,1,0.5,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,0,0_CO,1,Prompted to push button,,,,,,,,,,,,,,,,,,1,
+pkrx6si17k,3.0_Care_T2_SC_TrialComplete,2024-08-13T09:01:24-04:00,R_5noUFIIUfZ4ZBaa,0_CARE,Case3,2_T2,1_SC,3,3,1.5,,2024-08-13T09:00:50-04:00,2024-08-13T09:01:14-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,99,,
+pkzpxxj2fl,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:08:34-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,2,1,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,81,,
+pnivt4y7d8,3.0_Care_T1_SC_TrialComplete,2024-08-07T11:34:38-04:00,R_7J3INIbkek1cRD8,0_CARE,Case2,1_T1,1_SC,2,1,0.5,,2024-08-07T11:32:52-04:00,2024-08-07T11:33:25-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27,,
+pocntkr3bb,3.0_IOA_TrialComplete,2024-09-18T17:33:54-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,1,1,1,1,0_CO,0,,,29,,102,37
+ppjmtwz8m8,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:08:13-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,2,1,,2024-08-08T10:07:30-04:00,2024-08-08T10:08:04-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,51,,10
+pzsi25ii78,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:31:29-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,10,5,,,,,,,,,,,,,,1,1,0,1,1,0,0,0,1,1_PO,1,Forgot blanket,,,,,,,,,,,,,,,,,,11,
+q06bh3bc90,3.0_Conf_TX_SC_TrialComplete,2024-08-07T13:08:06-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,18,9,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,49,,
+q4b896tlmn,3.0_IOA_TrialComplete,2024-09-18T17:35:01-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,0,1,1,1,2_PC,0,,,30,,103,38
+q99ybaauu5,3.0_IOA_TrialComplete,2024-09-16T16:26:48-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,0_AC,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,14,
+qao6a1by8c,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:38:45-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,24,12,,2024-08-08T10:38:10-04:00,2024-08-08T10:38:39-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,73,,32
+qe93m4qrvs,3.0_IOA_TrialComplete,2024-10-15T11:59:20-04:00,IOA-TrackingSession4,2_IOA,Case3,2_T2,1_SC,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_3_T2_SC and AC.mp4 ,1,1,0,1,1,1,0,1,1,0_CO,0,,,42,,121,39
+qix107791i,3.0_Conf_TX_SC_TrialComplete,2024-08-07T12:52:28-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,6,3,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,37,,
+qlx6imdq79,3.0_IOA_TrialComplete,2024-09-18T17:18:04-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,1,1,1,1,0_CO,0,,,14,,87,22
+qr4b9h5rfk,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:36:59-04:00,R_6CWq7K3UxJC0mVy,1_CONF,Case3,0_BL,0_AC,1,2,0.5,,,,,,,,,,,,,,1,0,0,0,1,1,0,0,0,0_CO,0,,,,,,,,,,,,,,,,,,,43,
+qzb5wd74ef,3.0_Care_T1_SC_TrialComplete,2024-08-07T11:40:45-04:00,R_7J3INIbkek1cRD8,0_CARE,Case2,1_T1,1_SC,2,6,3,,2024-08-07T11:39:49-04:00,2024-08-07T11:40:20-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32,,
+r1z1xqgpez,3.0_IOA_TrialComplete,2024-09-18T16:01:47-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_1_BL1,1,1,1,0,1,1,0,0,1,0_CO,0,,,,,67,
+r3i36wzek0,3.0_IOA_TrialComplete,2024-09-18T15:58:58-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,0_AC,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_1_BL1,1,1,0,0,1,1,0,1,1,0_CO,0,,,,,66,
+r8ruyihge5,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:03:42-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,4,2,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,114,110,45
+rbbidk7at3,3.0_IOA_TrialComplete,2024-09-18T17:48:30-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,0,1,1,1,1_PO,0,,,36,,112,47
+ridf1c4523,3.0_Care_T1_SC_TrialComplete,2024-08-07T12:47:23-04:00,R_3K8vuexsJCROurU,0_CARE,Case1,1_T1,1_SC,2,3,1.5,,2024-08-07T12:46:31-04:00,2024-08-07T12:47:00-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,,
+rixk768iqu,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:01:54-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,2,1,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,112,108,43
+rm8rmwo66j,3.0_IOA_TrialComplete,2024-09-18T17:24:26-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,0,1,1,1,1_PO,0,,,20,,93,28
+rnyomg9e2p,3.0_IOA_TrialComplete,2024-09-17T18:41:11-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,1,2_PC,0,,,,,42,
+rpef5nl8ky,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:44:00-04:00,R_3bOZSYhuPj3KrJw,1_CONF,Case3,0_BL,1_SC,1,20,2,,,,,,,,,,,,,,0,0,0,0,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,50,
+rsfxpuknwc,3.0_IOA_TrialComplete,2024-10-15T12:00:31-04:00,IOA-TrackingSession4,2_IOA,Case3,2_T2,1_SC,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_3_T2_SC and AC.mp4 ,1,1,1,1,1,1,1,1,1,0_CO,0,,,43,,122,40
+rxji52j2gp,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:25:09-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,10,5,,,,,,,,,,,,,,1,1,0,1,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,36,
+ry7d39loyt,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:10:33-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,4,2,,2024-08-09T09:09:48-04:00,2024-08-09T09:10:25-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,,
+rzwhywcd4l,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:54:29-04:00,R_6EnRY756TnRwnLE,1_CONF,Case3,0_BL,1_SC,1,25,1.5,,,,,,,,,,,,,,1,1,0,1,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,56,
+s3sqtwfzej,3.0_Care_T3_SC_TrialComplete,2024-08-13T09:47:04-04:00,R_525kMHlhy8WZvCF,0_CARE,Case2,3_T3,1_SC,4,1,0.5,,2024-08-13T09:46:02-04:00,2024-08-13T09:46:35-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,,
+s4jsuyllfb,3.0_Conf_TX_SC_TrialComplete,2024-08-07T12:55:15-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,8,4,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,0,1_PO,0,,,,,,,,,,,,,,,,,,39,,
+s90dxx6k2z,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:34:57-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,20,10,,2024-08-08T10:34:20-04:00,2024-08-08T10:34:48-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,69,,28
+s994g7q0au,3.0_Care_T3_SC_TrialComplete,2024-08-13T09:50:57-04:00,R_7udB4wn59HEKms1,0_CARE,Case2,3_T3,1_SC,4,4,1.5,,2024-08-13T09:50:01-04:00,2024-08-13T09:50:36-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,,
+scpiain4xl,3.0_IOA_TrialComplete,2024-09-18T17:03:55-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,0,0,1,1,0,1,1,0_CO,0,,,3,,76,11
+sdjs9nutpu,3.0_Care_T3_SC_TrialComplete,2024-08-13T09:49:55-04:00,R_7udB4wn59HEKms1,0_CARE,Case2,3_T3,1_SC,4,3,1,,2024-08-13T09:49:13-04:00,2024-08-13T09:49:39-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,105,,
+sdpw089q9q,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:29:43-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,9,4.5,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,10,
+sf49pxvi6r,3.0_IOA_TrialComplete,2024-09-18T17:50:21-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,0,1,1,1,1,0_CO,0,"very soft tone. This is also supposed to be trial 8, not sure if i fixed the #",,37,,113,48
+si6c6fsnir,3.0_IOA_TrialComplete,2024-09-18T17:05:33-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,0,0,1,0,0,1,1,2_PC,0,,,4,,77,12
+sr634l2a95,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:55:09-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,16,8,,2024-08-07T09:54:30-04:00,2024-08-07T09:54:51-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,,
+ssh1t4owvj,3.0_IOA_TrialComplete,2024-10-15T12:27:57-04:00,IOA-TrackingSession4,2_IOA,Case3,1_T1,1_SC,2,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_T1.MOV ,0,1,0,0,1,0,1,1,1,2_PC,0,,,48,,137,4
+sv1ln9v67n,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:46:18-04:00,R_6SHwGFF8MoFNOD6,1_CONF,Case2,0_BL,1_SC,1,14,1,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,Should have been a no comply **Addressed 2024.09.16**,,,,,,,,,,,,,,,,,,16,
+sv2pe6n20d,3.0_Conf_TX_SC_TrialComplete,2024-08-15T09:18:44-04:00,R_32Q0HaHaawwoVjr,1_CONF,Case1,3_T3,1_SC,5,1,0.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,123,,
+sy8zy5mzg8,3.0_IOA_TrialComplete,2024-09-17T18:50:54-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,0,1_PO,0,,,,,49,
+syuqgspuqo,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:36:47-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,22,11,,2024-08-08T10:36:14-04:00,2024-08-08T10:36:41-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,71,,30
+syv0a0cypa,3.0_IOA_TrialComplete,2024-09-17T18:38:52-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,40,
+t3ew3axhcu,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:46:24-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,9,4.5,,2024-08-07T09:45:38-04:00,2024-08-07T09:46:01-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,,
+t6p5yz0wtq,3.0_IOA_TrialComplete,2024-09-17T18:31:11-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,35,
+t74m72d6ox,3.0_Conf_TX_SC_TrialComplete,2024-08-16T09:58:10-04:00,R_1c6MdC8hJIQmuyD,1_CONF,Case1,5_RTB,1_SC,6,4,2,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,,132,
+t86zqgev6s,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:18:51-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,11,5.5,,2024-08-08T10:18:17-04:00,2024-08-08T10:18:45-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,60,,19
+t8pxhyu9up,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:01:09-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,1,0.5,,2024-08-14T09:00:19-04:00,2024-08-14T09:00:43-04:00,1,1,1,1,1,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,111,,42
+tag1fa0kp1,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:56:51-04:00,R_5qGyERqMXoxTCoh,1_CONF,Case2,0_BL,1_SC,1,18,1,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,1,,,,,,,,,,,,,,,,,,,21,
+td0jgh3zuz,3.0_IOA_TrialComplete,2024-09-17T18:57:21-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,0_AC,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,53,
+tdquvppn2k,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:45:21-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,29,14.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,78,102,37
+tf8xbov0s1,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:43:23-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,27,13.5,,2024-08-08T10:42:27-04:00,2024-08-08T10:43:17-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27,76,,35
+tfjkg475qi,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:31:31-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,15,7.5,,,,,,,,,,,,,,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,41,
+thoyygpc64,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:51:45-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,13,6.5,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,1,0_CO,0,,,,,,,,,,,,,,,,,,13,,
+tp429hjgiw,3.0_Conf_TX_SC_TrialComplete,2024-08-07T13:04:53-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,15,7.5,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,46,,
+tpu1le2y24,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:11:30-04:00,R_12Q9whOw5asqtfO,1_CONF,Case1,0_BL,0_AC,1,1,0.5,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,0,0_CO,0,Remembered reward after the fact,,,,,,,,,,,,,,,,,,59,
+tqd8io78y1,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:20:30-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,12,6,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,61,85,20
+tsm3wlfqx9,3.0_Care_T2_SC_TrialComplete,2024-08-09T10:38:50-04:00,R_3zAZLFUyppSDzTP,0_CARE,Case1,2_T2,1_SC,4,5,2.5,,2024-08-09T10:38:21-04:00,2024-08-09T10:38:44-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96,,
+tz3akpx8zf,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:26:14-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,11,5.5,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,37,
+u0e61zeiap,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:23:49-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,9,4.5,,,,,,,,,,,,,,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,35,
+u0l91fxfeu,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:13:18-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,6,3,,2024-08-08T10:12:40-04:00,2024-08-08T10:13:09-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,55,,14
+u21qlmt7u5,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:53:52-04:00,R_1jOFsqq7TPeUEqX,1_CONF,Case2,3_T3,1_SC,4,7,3.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,109,,
+u4353xrlsu,3.0_Care_T3_SC_TrialComplete,2024-08-15T09:21:43-04:00,R_1WvZtuDGg3qJOV3,0_CARE,Case1,3_T3,1_SC,5,4,2,,2024-08-15T09:21:00-04:00,2024-08-15T09:21:23-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126,,
+u7j410wvbo,3.0_IOA_TrialComplete,2024-09-16T15:54:43-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,0_AC,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,1,0,1,0,0_CO,0,"""I like how you're helping"" (not 100% if this is task-specific)",,,,1,
+u7tt56x4zn,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:13:41-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,6,3,,,,,,,,,,,,,,1,1,0,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,55,79,14
+ugqlglg8o0,3.0_IOA_TrialComplete,2024-09-18T17:08:41-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,0,1,1,1,1,1,0_CO,0,,,6,,79,14
+uhz6scvrcf,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:40:13-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,4,2,,,,,,,,,,,,,,1,1,0,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,4,135,2
+uogxlopec7,3.0_IOA_TrialComplete,2024-09-18T16:09:09-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_1_BL1,1,1,0,0,1,1,1,1,1,0_CO,0,"""Here is your strawberry for listening"" (not sure if that counts as verbal feedback)",,,,71,
+upxk8sxqd3,3.0_Care_T1_SC_TrialComplete,2024-08-07T11:38:30-04:00,R_7J3INIbkek1cRD8,0_CARE,Case2,1_T1,1_SC,2,4,2,,2024-08-07T11:37:27-04:00,2024-08-07T11:38:04-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,,
+uxwhzgm5of,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:12:20-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,6,3,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,1,,,,,,,,,,,,,,,,,,85,,
+v2ypy1id3l,3.0_Conf_TX_SC_TrialComplete,2024-08-07T10:05:53-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,25,12.5,,,,,,,,,,,,,,1,1,1,1,1,0,1,1,1,1_PO,1,,,,,,,,,,,,,,,,,,25,,
+v55kb026yw,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:26:51-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,17,8.5,,2024-08-08T10:26:08-04:00,2024-08-08T10:26:38-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,66,,25
+v6h0qhxezv,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:30:17-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,14,7,,,,,,,,,,,,,,0,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,,40,
+v889ikqgsy,3.0_IOA_TrialComplete,2024-09-17T18:26:08-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,0,1,0,0,1,0,0,0,1,2_PC,0,,,,,29,
+vbc6cmb9b3,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:10:34-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,4,2,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,83,,
+vbjcyo6w6g,3.0_IOA_TrialComplete,2024-09-18T15:48:06-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1-1-BL0,1,1,1,0,1,1,1,1,1,0_CO,1,Caregiver asked about whether she does the same thing every time 10:00,,,,62,
+vgkp8zjqzm,3.0_IOA_TrialComplete,2024-09-18T17:19:41-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,0,1,1,1,1_PO,0,,,16,,89,24
+vgsfvs23id,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:21:23-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,7,3.5,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,30,
+vh8gfmb3mw,3.0_IOA_TrialComplete,2024-09-17T19:03:07-04:00,IOA-TrackingSession2,2_IOA,Case3,0_BL,1_SC,1,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_BL,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,57,
+vioxlffn8a,3.0_IOA_TrialComplete,2024-09-18T17:27:41-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,0,1,0,1,0,1,1,1,1_PO,0,,,23,,96,31
+vl3bg5qopv,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:49:46-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,12,6,,2024-08-07T09:49:02-04:00,2024-08-07T09:49:26-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,,
+vlkta0y9ks,3.0_Conf_TX_SC_TrialComplete,2024-08-16T09:16:59-04:00,R_3mmygfbjKX47LfO,1_CONF,Case4,5_RTB,0_AC,2,2,1,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,143,
+vlptq344o1,3.0_Conf_TX_SC_TrialComplete,2024-08-15T09:20:36-04:00,R_32Q0HaHaawwoVjr,1_CONF,Case1,3_T3,1_SC,5,3,1.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,125,,
+vm4ie0s1ad,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:07:51-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,8,4,,2024-08-14T09:07:04-04:00,2024-08-14T09:07:30-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,118,,
+vmfqt8wmtu,3.0_Care_T3_SC_TrialComplete,2024-08-13T09:48:27-04:00,R_7udB4wn59HEKms1,0_CARE,Case2,3_T3,1_SC,4,2,0.5,,2024-08-13T09:48:07-04:00,2024-08-13T09:48:11-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,,
+vmj8s6shq5,3.0_IOA_TrialComplete,2024-09-18T15:54:49-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1-1-BL0,1,1,0,1,1,1,1,1,1,0_CO,0,,,,,65,
+vqh7gfxcey,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:12:23-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,5,2.5,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,1,,,,,,,,,,,,,,,,,,54,78,13
+vreldn5mvu,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:51:02-04:00,R_6SHwGFF8MoFNOD6,1_CONF,Case2,0_BL,1_SC,1,16,2,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,18,
+vrj74kr1el,3.0_Care_T1_SC_TrialComplete,2024-08-07T12:45:05-04:00,R_3K8vuexsJCROurU,0_CARE,Case1,1_T1,1_SC,2,1,0.5,,2024-08-07T12:43:40-04:00,2024-08-07T12:44:31-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33,,
+vsuw7vxozh,3.0_Care_T1_SC_TrialComplete,2024-08-07T11:39:29-04:00,R_7J3INIbkek1cRD8,0_CARE,Case2,1_T1,1_SC,2,5,2.5,,2024-08-07T11:38:39-04:00,2024-08-07T11:39:13-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,,
+vws0jd4py3,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:36:05-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,1,0.5,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,1,Sent wrong guide. **Addressed 2024.09.16**,,,,,,,,,,,,,,,,,1,134,1
+vx8357a2wu,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:42:38-04:00,R_3bOZSYhuPj3KrJw,1_CONF,Case3,0_BL,1_SC,1,19,1.5,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,49,
+vx85tlxdqt,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:05:13-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,5,2.5,,2024-08-14T09:03:58-04:00,2024-08-14T09:04:43-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,115,,46
+w21rrczo9f,3.0_Care_T1_SC_TrialComplete,2024-08-07T13:00:54-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,12,6,,2024-08-07T13:00:12-04:00,2024-08-07T13:00:42-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,43,,
+w30gin0e3v,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:50:08-04:00,R_7YWAWGrlC7TJSst,1_CONF,Case3,0_BL,0_AC,1,3,0.5,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,53,
+w6vx1qin9y,3.0_IOA_TrialComplete,2024-09-18T15:45:22-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1-1-BL0,1,1,0,0,1,0,0,0,1,1_PO,1,"Small talk on ""Rob"" versus ""Robert"" 7:00",,,,60,
+wfh37yc833,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:22:56-04:00,R_5h6miWI0O8vFXTR,1_CONF,Case1,0_BL,1_SC,1,5,2.5,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,64,
+wh09w5y1rs,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:43:28-04:00,R_6y2uz3oEwG9TFEG,1_CONF,Case1,0_BL,1_SC,1,9,1.5,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,1,1_PO,0,Checked phone again,,,,,,,,,,,,,,,,,,69,
+wieyal9grr,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:17:42-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,4,2,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,27,
+wl39z8c185,3.0_Care_T1_SC_TrialComplete,2024-08-07T13:08:08-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,18,9,,2024-08-07T13:07:19-04:00,2024-08-07T13:07:56-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,,
+wn1ygertr5,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:44:50-04:00,R_6y2uz3oEwG9TFEG,1_CONF,Case1,0_BL,1_SC,1,10,2,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,70,
+wntpo8qsgw,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:06:58-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,7,3.5,,2024-08-14T09:06:12-04:00,2024-08-14T09:06:36-04:00,1,1,1,1,1,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37,117,,48
+wobjacr4f0,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:43:56-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,7,3.5,,,,,,,,,,,,,,1,1,0,1,1,1,1,1,0,0_CO,0,,,,,,,,,,,,,,,,,,7,136,3
+wvll5g54y3,3.0_Care_T1_SC_TrialComplete,2024-08-07T13:02:23-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,13,6.5,,2024-08-07T13:01:39-04:00,2024-08-07T13:02:07-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44,,
+wxr90ecf8k,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:35:53-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,21,10.5,,2024-08-08T10:35:12-04:00,2024-08-08T10:35:46-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,70,,29
+wylueur6u0,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:41:16-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,5,2.5,,2024-08-07T09:40:20-04:00,2024-08-07T09:40:46-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,
+x4d1cf3xmr,3.0_IOA_TrialComplete,2024-09-18T17:53:54-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,0_AC,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,118,
+x4dw78jy50,3.0_IOA_TrialComplete,2024-09-16T16:05:53-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,0,0,0,1,2_PC,0,,,,,4,
+x6snutud2j,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:48:46-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,11,5.5,,,,,,,,,,,,,,1,1,0,0,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,11,137,4
+x924pt7327,3.0_IOA_TrialComplete,2024-10-15T12:25:12-04:00,IOA-TrackingSession4,2_IOA,Case3,1_T1,1_SC,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_1_T1.MOV ,1,1,0,0,1,0,1,1,1,1_PO,0,,,46,,135,2
+x9cdau2e3l,3.0_Conf_TX_SC_TrialComplete,2024-08-13T09:51:45-04:00,R_1jOFsqq7TPeUEqX,1_CONF,Case2,3_T3,1_SC,4,5,2.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,107,,
+xb5ofe84wo,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:46:20-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,9,4.5,,,,,,,,,,,,,,1,1,0,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,9,,
+xcoeaa4dt1,3.0_Conf_TX_SC_TrialComplete,2024-08-09T09:11:27-04:00,R_6eXilE6OiRSEUCI,1_CONF,Case2,2_T2,1_SC,3,5,2.5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,84,,
+xd3xahzf81,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:00:53-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,1,0.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,111,107,42
+xfafelu310,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:41:01-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,25,12.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,1,Previous verbal feedback,,,,,,,,,,,,,,,,,74,98,33
+xki99w6k2n,3.0_IOA_TrialComplete,2024-10-15T12:07:33-04:00,IOA-TrackingSession4,2_IOA,Case2,5_RTB,1_SC,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_5_RTB.MOV ,0,1,1,1,1,1,1,1,1,0_CO,0,,,,,127,
+xmvhjmnp8d,3.0_Conf_TX_SC_TrialComplete,2024-08-16T09:54:28-04:00,R_1c6MdC8hJIQmuyD,1_CONF,Case1,5_RTB,1_SC,6,1,0.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,,131,
+xmwo3ksvlr,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:26:54-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,7,3.5,,,,,,,,,,,,,,1,1,0,1,1,0,0,1,0,1_PO,0,,,,,,,,,,,,,,,,,,,8,
+xunm7k7en3,3.0_IOA_TrialComplete,2024-09-18T17:52:47-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,0,1,1,1,2_PC,0,,,41,,117,52
+xzuoviw1k5,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:52:05-04:00,R_6EnRY756TnRwnLE,1_CONF,Case3,0_BL,1_SC,1,23,0.5,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,54,
+y0dgz9grlu,3.0_IOA_TrialComplete,2024-09-16T16:14:57-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,1_SC,1,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,0,1,0,0,1,1,0,1,0,0_CO,0,,,,,9,
+y0drtplb83,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:57:25-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,18,9,,2024-08-07T09:56:40-04:00,2024-08-07T09:57:05-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,,
+y87yhj0qb8,3.0_Care_T2_SC_TrialComplete,2024-08-13T09:03:04-04:00,R_5noUFIIUfZ4ZBaa,0_CARE,Case3,2_T2,1_SC,3,5,2.5,,2024-08-13T09:02:30-04:00,2024-08-13T09:02:55-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,,
+y8rhyubsok,3.0_IOA_TrialComplete,2024-09-18T17:25:29-04:00,IOA-TrackingSession3,2_IOA,Case1,2_T2,1_SC,3,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_3_T2,1,1,1,1,1,1,1,1,1,0_CO,0,,,21,,94,29
+y8ufpk28ue,3.0_IOA_TrialComplete,2024-09-16T16:43:16-04:00,IOA-TrackingSession1,2_IOA,Case2,0_BL,0_AC,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case2_1_BL_1.MOV,1,1,0,0,1,1,0,1,0,0_CO,0,,,,,22,
+ybi4hhvybk,3.0_Care_T3_SC_TrialComplete,2024-08-14T09:02:03-04:00,R_7J3lfQEZcJ6IBvV,0_CARE,Case3,3_T3,1_SC,4,2,1,,2024-08-14T09:01:15-04:00,2024-08-14T09:01:42-04:00,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32,112,,43
+ybmr7xnnip,3.0_Care_T2_SC_TrialComplete,2024-08-13T08:59:41-04:00,R_5noUFIIUfZ4ZBaa,0_CARE,Case3,2_T2,1_SC,3,1,0.5,,2024-08-13T08:59:05-04:00,2024-08-13T08:59:26-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42,97,,39
+ydcxk6f2tw,3.0_Conf_TX_SC_TrialComplete,2024-08-16T09:15:07-04:00,R_3mmygfbjKX47LfO,1_CONF,Case4,5_RTB,0_AC,2,1,0.5,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,,,,,,,,,,,,,,,,,,,,142,
+yjhemw8xzy,3.0_Care_T2_SC_TrialComplete,2024-08-09T10:35:18-04:00,R_3zAZLFUyppSDzTP,0_CARE,Case1,2_T2,1_SC,4,1,0.5,,2024-08-09T10:34:34-04:00,2024-08-09T10:35:02-04:00,,,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92,,
+yl2cz1l96w,3.0_Care_T2_SC_TrialComplete,2024-08-09T09:15:07-04:00,R_7lF32hciixnfCM1,0_CARE,Case2,2_T2,1_SC,3,9,4.5,,2024-08-09T09:14:32-04:00,2024-08-09T09:14:57-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,,
+ylwmempocs,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:42:11-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,26,13,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,0_CO,1,I complied **Addressed 2024.09.16**,,,,,,,,,,,,,,,,,75,99,34
+ynl71yhho2,3.0_IOA_TrialComplete,2024-09-18T17:51:32-04:00,IOA-TrackingSession3,2_IOA,Case3,3_T3,1_SC,4,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case3_4_T3,1,1,1,1,1,1,1,1,1,0_CO,0,,,39,,115,50
+yo3ske4qqn,3.0_Conf_TX_SC_TrialComplete,2024-08-08T10:18:01-04:00,R_3zosE1lXtNUzJta,1_CONF,Case1,2_T2,1_SC,3,10,5,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,59,83,18
+yq5p630u2j,3.0_IOA_TrialComplete,2024-09-18T16:05:38-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,1_SC,1,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_1_BL1,1,1,0,0,1,0,0,0,1,1_PO,0,,,,,69,
+yq71aj4ndb,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:55:27-04:00,R_5qGyERqMXoxTCoh,1_CONF,Case2,0_BL,1_SC,1,17,0.5,,,,,,,,,,,,,,1,1,0,1,1,0,0,0,1,1_PO,0,,,,,,,,,,,,,,,,,,,20,
+yvdrlcvf6j,3.0_IOA_TrialComplete,2024-09-18T16:14:10-04:00,IOA-TrackingSession3,2_IOA,Case1,0_BL,0_AC,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Case1_1_BL1,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,73,
+yya54tly2x,3.0_Conf_TX_SC_TrialComplete,2024-08-07T09:42:45-04:00,R_5l4bpwuQ5SGDNAJ,1_CONF,Case3,1_T1,1_SC,2,6,3,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,6,,
+z08uj7ac1w,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:53:19-04:00,R_58VcvvGtc8VWQl9,1_CONF,Case1,0_BL,0_AC,1,3,0.5,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,73,
+zabc500npc,3.0_Conf_TX_SC_TrialComplete,2024-08-09T10:35:17-04:00,R_1tD6uMNpqoFo69y,1_CONF,Case1,2_T2,1_SC,4,1,0.5,,,,,,,,,,,,,1_NoComply,1,1,1,1,1,0,1,1,1,1_PO,0,,,,,,,,,,,,,,,,,,92,,
+zczbte79pl,3.0_Care_T1_SC_TrialComplete,2024-08-07T10:06:50-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,26,13,,2024-08-07T10:06:09-04:00,2024-08-07T10:06:38-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,,
+zfhczmbu3u,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:22:53-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,14,7,,2024-08-08T10:22:08-04:00,2024-08-08T10:22:45-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,63,,22
+zghd1m82d9,3.0_Care_T2_SC_TrialComplete,2024-08-08T10:09:28-04:00,R_61nTEDshSDdT7Gh,0_CARE,Case1,2_T2,1_SC,3,3,1.5,,2024-08-08T10:08:29-04:00,2024-08-08T10:09:20-04:00,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,52,,11
+zm2zuxrtrb,3.0_Conf_TX_SC_TrialComplete,2024-08-07T13:07:01-04:00,R_60MjqExxQsnR0oA,1_CONF,Case1,1_T1,1_SC,2,17,8.5,,,,,,,,,,,,,,1,1,0,0,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,48,,
+zmp0lp9k1f,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:19:27-04:00,R_5h6miWI0O8vFXTR,1_CONF,Case1,0_BL,1_SC,1,3,1.5,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,62,
+zo3z42afvc,3.0_Care_T1_SC_TrialComplete,2024-08-07T13:06:58-04:00,R_1qOm5LpS31WXbMR,0_CARE,Case1,1_T1,1_SC,2,17,8.5,,2024-08-07T13:06:11-04:00,2024-08-07T13:06:47-04:00,1,1,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48,,
+zom6it7q6a,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:22:07-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,4,2,,,,,,,,,,,,,,1,1,0,1,1,1,0,1,0,0_CO,0,,,,,,,,,,,,,,,,,,,5,
+zp2oqbs26n,3.0_Conf_TX_SC_TrialComplete,2024-08-06T12:23:44-04:00,R_570X9J1UdvvNuWK,1_CONF,Case2,0_BL,1_SC,1,5,2.5,,,,,,,,,,,,,,1,1,0,1,1,0,1,1,1,1_PO,1,Cited my own phone use,,,,,,,,,,,,,,,,,,6,
+zqh67kai1y,3.0_Conf_TX_SC_TrialComplete,2024-08-06T14:13:50-04:00,R_1aMwBLZzFs77NOV,1_CONF,Case3,0_BL,1_SC,1,1,0.5,,,,,,,,,,,,,,1,1,0,0,1,1,0,0,0,0_CO,0,,,,,,,,,,,,,,,,,,,24,
+zqpztu3q7m,3.0_Conf_TX_SC_TrialComplete,2024-08-06T10:39:34-04:00,R_6y2uz3oEwG9TFEG,1_CONF,Case1,0_BL,1_SC,1,7,0.5,,,,,,,,,,,,,,1,1,0,0,1,1,0,1,1,0_CO,0,,,,,,,,,,,,,,,,,,,67,
+zsydrua0kw,3.0_Conf_TX_SC_TrialComplete,2024-08-14T09:09:11-04:00,R_5Kg88AtwszcAgJR,1_CONF,Case3,3_T3,1_SC,4,10,5,,,,,,,,,,,,,0_Comply,1,1,1,1,1,1,1,1,1,0_CO,0,,,,,,,,,,,,,,,,,,120,115,50
+zyqwop1bol,3.0_Care_T1_SC_TrialComplete,2024-08-07T09:40:05-04:00,R_59nsBxI3QvL3KCJ,0_CARE,Case3,1_T1,1_SC,2,4,2,,2024-08-07T09:39:08-04:00,2024-08-07T09:39:33-04:00,1,1,,,,0,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46,4,,2

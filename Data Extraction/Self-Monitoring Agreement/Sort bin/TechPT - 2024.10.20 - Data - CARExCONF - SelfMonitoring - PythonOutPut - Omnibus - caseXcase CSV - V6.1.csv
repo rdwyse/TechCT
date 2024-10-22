@@ -1,0 +1,29 @@
+Section,Cohen's Kappa,Percentage Agreement (%),Number of Observations,True Positive,False Positive,False Negative,True Negative,Total Agreement Count,Total Observation Count,Expected Agreement,P_o - P_e,1 - P_e,k
+Case1 - ConfMonitoring1 vs SelfMonitoring1,1.0,100.0,23,23,0,0,0,23,23,1.0,0.0,0.0,
+Case1 - ConfMonitoring2 vs SelfMonitoring2,1.0,100.0,23,23,0,0,0,23,23,1.0,0.0,0.0,
+Case1 - ConfMonitoring3 vs SelfMonitoring3,0.0,60.97560975609756,41,25,16,0,0,25,41,0.6097560975609756,0.0,0.3902439024390244,0.0
+Case1 - ConfMonitoring4 vs SelfMonitoring4,0.11419753086419748,65.85365853658537,41,25,13,1,2,27,41,0.6145151695419393,0.04402141582391439,0.3854848304580607,0.11419753086419766
+Case1 - ConfMonitoring5 vs SelfMonitoring5,0.0,97.5609756097561,41,40,1,0,0,40,41,0.975609756097561,0.0,0.024390243902439046,0.0
+Case1 - ConfMonitoring6 vs SelfMonitoring6,0.16058394160583955,56.52173913043478,23,11,10,0,2,13,23,0.4820415879017013,0.08317580340264646,0.5179584120982987,0.16058394160583933
+Case1 - ConfMonitoring6a_1 vs SelfMonitoring6a_1,0.0,78.26086956521739,23,18,5,0,0,18,23,0.782608695652174,0.0,0.21739130434782605,0.0
+Case1 - ConfMonitoring6a_2 vs SelfMonitoring6a_2,0.0,82.6086956521739,23,19,4,0,0,19,23,0.8260869565217391,-1.1102230246251565e-16,0.17391304347826086,-6.38378239159465e-16
+Case1 - ConfMonitoring6a_3 vs SelfMonitoring6a_3,0.0,91.30434782608695,23,21,2,0,0,21,23,0.9130434782608695,0.0,0.08695652173913049,0.0
+Case2 - ConfMonitoring1 vs SelfMonitoring1,1.0,100.0,14,14,0,0,0,14,14,1.0,0.0,0.0,
+Case2 - ConfMonitoring2 vs SelfMonitoring2,1.0,100.0,14,14,0,0,0,14,14,1.0,0.0,0.0,
+Case2 - ConfMonitoring3 vs SelfMonitoring3,1.0,100.0,19,19,0,0,0,19,19,1.0,0.0,0.0,
+Case2 - ConfMonitoring4 vs SelfMonitoring4,1.0,100.0,19,19,0,0,0,19,19,1.0,0.0,0.0,
+Case2 - ConfMonitoring5 vs SelfMonitoring5,1.0,100.0,19,19,0,0,0,19,19,1.0,0.0,0.0,
+Case2 - ConfMonitoring6 vs SelfMonitoring6,0.0,50.0,14,7,7,0,0,7,14,0.5,0.0,0.5,0.0
+Case2 - ConfMonitoring6a_1 vs SelfMonitoring6a_1,1.0,100.0,14,14,0,0,0,14,14,1.0,0.0,0.0,
+Case2 - ConfMonitoring6a_2 vs SelfMonitoring6a_2,0.0,92.85714285714286,14,13,1,0,0,13,14,0.9285714285714286,0.0,0.0714285714285714,0.0
+Case2 - ConfMonitoring6a_3 vs SelfMonitoring6a_3,1.0,100.0,14,14,0,0,0,14,14,1.0,0.0,0.0,
+Case3 - ConfMonitoring1 vs SelfMonitoring1,1.0,100.0,38,38,0,0,0,38,38,1.0,0.0,0.0,
+Case3 - ConfMonitoring2 vs SelfMonitoring2,1.0,100.0,38,38,0,0,0,38,38,1.0,0.0,0.0,
+Case3 - ConfMonitoring3 vs SelfMonitoring3,0.0,94.44444444444444,18,17,1,0,0,17,18,0.9444444444444444,0.0,0.05555555555555558,0.0
+Case3 - ConfMonitoring4 vs SelfMonitoring4,1.0,100.0,18,18,0,0,0,18,18,1.0,0.0,0.0,
+Case3 - ConfMonitoring5 vs SelfMonitoring5,1.0,100.0,18,18,0,0,0,18,18,1.0,0.0,0.0,
+Case3 - ConfMonitoring6 vs SelfMonitoring6,0.947075208913649,97.36842105263158,38,20,1,0,17,37,38,0.502770083102493,0.47091412742382266,0.49722991689750695,0.9470752089136488
+Case3 - ConfMonitoring6a_1 vs SelfMonitoring6a_1,0.0,84.21052631578947,38,32,6,0,0,32,38,0.8421052631578947,0.0,0.1578947368421053,0.0
+Case3 - ConfMonitoring6a_2 vs SelfMonitoring6a_2,1.0,100.0,38,38,0,0,0,38,38,1.0,0.0,0.0,
+Case3 - ConfMonitoring6a_3 vs SelfMonitoring6a_3,0.0,84.21052631578947,38,32,6,0,0,32,38,0.8421052631578947,0.0,0.1578947368421053,0.0
+Omnibus - Entire Set,0.3269864907988512,89.18128654970761,684,589,73,1,21,610,684,0.8392496836633493,0.05256318183372677,0.1607503163366507,0.3269864907988519

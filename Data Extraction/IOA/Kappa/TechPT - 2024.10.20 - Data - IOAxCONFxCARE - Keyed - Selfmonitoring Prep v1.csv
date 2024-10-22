@@ -1,0 +1,157 @@
+InstanceID_CONF,InstanceID_IOA,DateTimeStamp,Respondent,CaregiverID,StudyPhase,SessionType,SessionCount,Merge_TotalSessionTrials,SessionBlockCount,ConfMonitoring6,IOAMonitoring6,Matrix Score,IOAMonitoring6a_1,IOAMonitoring6a_2,IOAMonitoring6a_3,IOAConfederateInteraction,IOATrialNote,IOAxCARE_Key,CONFxCARE_Key,IOAxCONF_Key,CONFxCARExIOA_Key
+0jiez2d4jx,vh8gfmb3mw,2024-08-06T14:55:58-04:00,1_CONF,Case3,0_BL,1_SC,1,26,2,1,1,A,0,1,0,0,,,,57,
+1dd4utxqq0,x4d1cf3xmr,2024-08-14T09:15:50-04:00,1_CONF,Case3,3_T3,0_AC,4,1,0.5,1,1,A,1,1,1,0,,,,118,
+1fv3xh81bn,bvczagvhcw,2024-08-14T09:17:05-04:00,1_CONF,Case3,3_T3,0_AC,4,3,1.5,1,1,A,1,1,1,0,,,,120,
+1lv6uae4sw,y8ufpk28ue,2024-08-06T13:00:31-04:00,1_CONF,Case2,0_BL,0_AC,1,4,0.5,1,1,A,0,1,0,0,,,,22,
+20biysgoz7,kd25b48510,2024-08-19T11:02:31-04:00,1_CONF,Case1,5_RTB,0_AC,7,1,0.5,1,1,A,1,1,1,0,,,,104,
+2ahwij0p7v,gjgzwzcxx9,2024-08-06T14:45:11-04:00,1_CONF,Case3,0_BL,1_SC,1,21,2.5,1,1,A,1,1,0,0,,,,51,
+305smus3na,mxq73lpgzv,2024-08-06T14:41:21-04:00,1_CONF,Case3,0_BL,1_SC,1,18,1,1,1,A,1,1,0,0,,,,48,
+3bjywc7ujz,a6mg339dt7,2024-08-06T12:25:17-04:00,1_CONF,Case2,0_BL,1_SC,1,6,3,1,1,A,0,1,0,0,Caregiver noted something she would typically do different with AC 16:20,,,7,
+59z28789f8,q99ybaauu5,2024-08-06T12:42:01-04:00,1_CONF,Case2,0_BL,0_AC,1,2,0.5,1,1,A,0,1,0,0,,,,14,
+63c7z22k5i,3lbou8hk69,2024-08-08T10:15:45-04:00,1_CONF,Case1,2_T2,1_SC,3,8,4,1,1,A,1,1,1,0,,8,57,81,16
+6ucigy2n12,734eninxvv,2024-08-08T10:28:23-04:00,1_CONF,Case1,2_T2,1_SC,3,18,9,1,1,A,0,0,1,0,Caregiver took ~4 sec for feedback,18,67,91,26
+76b6silt5i,7r45gr929e,2024-08-06T10:18:11-04:00,1_CONF,Case1,0_BL,1_SC,1,2,1,1,1,A,0,1,1,0,,,,61,
+7o936qd290,vmj8s6shq5,2024-08-06T10:25:16-04:00,1_CONF,Case1,0_BL,1_SC,1,6,3,1,1,A,1,1,1,0,,,,65,
+84c2e101cp,g278kkqemr,2024-08-14T09:16:28-04:00,1_CONF,Case3,3_T3,0_AC,4,2,1,1,1,A,1,1,1,0,Questioning tone? 16:15ish,,,119,
+8c3dazi3qu,8gmo86esfd,2024-08-06T12:16:47-04:00,1_CONF,Case2,0_BL,1_SC,1,1,0.5,1,1,A,0,1,0,1,Further clarification on task from confederate,,,2,
+9b4dhcqlci,knb5hiim9e,2024-08-06T14:53:27-04:00,1_CONF,Case3,0_BL,1_SC,1,24,1,1,1,A,0,1,0,0,Child interrupted briefly 48:30,,,55,
+9u24ug994x,8vur3c0n9e,2024-08-07T09:56:24-04:00,1_CONF,Case3,1_T1,1_SC,2,17,8.5,1,1,A,0,1,1,0,,50,17,139,6
+9vaxpkqdjo,lg3jm7u9y2,2024-08-08T10:07:20-04:00,1_CONF,Case1,2_T2,1_SC,3,1,0.5,1,1,A,0,1,1,0,,1,50,74,9
+a4knedjuvn,6s5cbi2luc,2024-08-06T12:34:59-04:00,1_CONF,Case2,0_BL,1_SC,1,12,6,1,1,A,0,1,0,0,,,,13,
+assm964nzn,e0z5265xq5,2024-08-13T09:12:32-04:00,1_CONF,Case3,2_T2,0_AC,3,2,1,1,1,A,1,1,1,0,,,,125,
+b6s7qzxy89,rsfxpuknwc,2024-08-13T09:02:21-04:00,1_CONF,Case3,2_T2,1_SC,3,4,2,1,1,A,1,1,1,0,,43,100,122,40
+c9o0v9ykd7,y8rhyubsok,2024-08-08T10:36:02-04:00,1_CONF,Case1,2_T2,1_SC,3,21,10.5,1,1,A,1,1,1,0,,21,70,94,29
+ceio20vzn7,2d7xai8172,2024-08-06T14:18:58-04:00,1_CONF,Case3,0_BL,1_SC,1,5,2.5,1,1,A,0,1,0,0,,,,28,
+dhz81nhvnu,eqklom8v8e,2024-08-06T14:28:58-04:00,1_CONF,Case3,0_BL,1_SC,1,13,6.5,1,1,A,1,1,0,1,Joke about drawing 24:15,,,39,
+dnokw51592,qlx6imdq79,2024-08-08T10:23:27-04:00,1_CONF,Case1,2_T2,1_SC,3,14,7,1,1,A,1,1,1,0,,14,63,87,22
+ea26882t36,xki99w6k2n,2024-08-14T09:46:20-04:00,1_CONF,Case2,5_RTB,1_SC,5,1,0.5,1,1,A,1,1,1,0,,,,127,
+f61mf134s8,r3i36wzek0,2024-08-06T10:35:59-04:00,1_CONF,Case1,0_BL,0_AC,1,2,0.5,1,1,A,0,1,1,0,,,,66,
+fezz3o4qcl,bym9gfok2z,2024-08-06T10:21:08-04:00,1_CONF,Case1,0_BL,1_SC,1,4,2,1,1,A,1,1,1,0,,,,63,
+fos43axt8r,gvv8k8t7jh,2024-08-13T09:13:44-04:00,1_CONF,Case3,2_T2,0_AC,3,3,1.5,1,1,A,1,1,1,0,,,,126,
+g1p4exdh69,hrdysp4y71,2024-08-07T10:00:33-04:00,1_CONF,Case3,1_T1,1_SC,2,20,10,1,1,A,0,1,1,0,,51,20,140,7
+g3ustmig5t,5ivcwqnz46,2024-08-14T09:10:03-04:00,1_CONF,Case3,3_T3,1_SC,4,11,5.5,1,1,A,1,1,1,0,,40,121,116,51
+h1jnbdx1lz,dlxp2tr2li,2024-08-06T12:52:49-04:00,1_CONF,Case2,0_BL,0_AC,1,3,0.5,1,1,A,0,1,0,0,child got distracted on the way to comply with demand 43:00,,,19,
+hj5bssexha,j0rtbyxbvh,2024-08-08T10:44:27-04:00,1_CONF,Case1,2_T2,1_SC,3,28,14,1,1,A,1,1,1,0,,28,77,101,36
+iahde57cm8,6jf8x6m65g,2024-08-08T10:38:53-04:00,1_CONF,Case1,2_T2,1_SC,3,24,12,1,1,A,1,1,1,0,,24,73,97,32
+irjdgx069j,n5scr8ozlm,2024-08-06T14:58:13-04:00,1_CONF,Case3,0_BL,0_AC,1,4,0.5,1,1,A,0,1,0,0,,,,58,
+j8lu5vx9rx,2lwr33pouv,2024-08-06T14:09:05-04:00,1_CONF,Case3,0_BL,0_AC,1,1,0.5,1,1,A,1,1,0,0,"Child struggled with completing the task, and got distracted a few times 1:00",,,23,
+jqtcx1bw9u,d48wh2n8ca,2024-08-06T12:44:35-04:00,1_CONF,Case2,0_BL,1_SC,1,13,0.5,1,1,A,0,1,0,0,,,,15,
+jve0bc8gh8,sf49pxvi6r,2024-08-14T09:07:47-04:00,1_CONF,Case3,3_T3,1_SC,4,8,4,1,1,A,1,1,1,0,"very soft tone. This is also supposed to be trial 8, not sure if i fixed the #",37,118,113,
+k0ay8aucra,ctu2c5a2ry,2024-08-14T09:02:59-04:00,1_CONF,Case3,3_T3,1_SC,4,3,1.5,1,1,A,1,1,1,0,Very neutral tone,33,113,109,44
+k81nionvca,hnlzj9937n,2024-08-06T14:22:38-04:00,1_CONF,Case3,0_BL,1_SC,1,8,4,1,1,A,1,1,0,1,Confederate checked phone for what to do 18:00,,,34,
+kv07tghq0x,9pp3uuy11f,2024-08-16T09:18:00-04:00,1_CONF,Case4,5_RTB,0_AC,2,3,1.5,1,1,A,1,1,1,0,,,,144,
+l4bnh1calr,bzgpdechqj,2024-08-08T10:25:04-04:00,1_CONF,Case1,2_T2,1_SC,3,15,7.5,1,1,A,0,1,1,0,,15,64,88,23
+l78puidwmz,3wxuui1ah1,2024-08-13T09:11:38-04:00,1_CONF,Case3,2_T2,0_AC,3,1,0.5,1,1,A,1,1,1,0,,,,124,
+lgau2v904v,cjdx8fs07r,2024-08-06T14:16:28-04:00,1_CONF,Case3,0_BL,1_SC,1,3,1.5,1,1,A,0,1,0,0,,,,26,
+lihoshct35,lqhfah8avf,2024-08-07T10:04:05-04:00,1_CONF,Case3,1_T1,1_SC,2,23,11.5,1,1,A,1,1,1,0,,52,23,141,8
+mftqsa41sf,qe93m4qrvs,2024-08-13T08:59:41-04:00,1_CONF,Case3,2_T2,1_SC,3,1,0.5,1,1,A,0,1,1,0,,42,97,121,39
+mpi2rm6b1i,72avvejb86,2024-08-16T10:00:45-04:00,1_CONF,Case1,5_RTB,1_SC,6,7,3.5,1,1,A,1,1,1,0,,,,133,
+n6ug7xzlvn,y0dgz9grlu,2024-08-06T12:28:26-04:00,1_CONF,Case2,0_BL,1_SC,1,8,4,1,1,A,0,1,0,0,,,,9,
+ney3hgrhzn,uogxlopec7,2024-08-06T10:46:34-04:00,1_CONF,Case1,0_BL,1_SC,1,11,2.5,1,1,A,1,1,1,0,"""Here is your strawberry for listening"" (not sure if that counts as verbal feedback)",,,71,
+nneqyyrric,maxcjqdrw9,2024-08-08T10:34:09-04:00,1_CONF,Case1,2_T2,1_SC,3,19,9.5,1,1,A,1,1,1,1,Confederate provided some coaching/feedback to caregiver 23:00,19,68,92,27
+o2wdtm4y2g,scpiain4xl,2024-08-08T10:09:34-04:00,1_CONF,Case1,2_T2,1_SC,3,3,1.5,1,1,A,0,1,1,0,,3,52,76,11
+p3h2noxcwo,u7j410wvbo,2024-08-06T12:10:55-04:00,1_CONF,Case2,0_BL,0_AC,1,1,0.5,1,1,A,0,1,0,0,"""I like how you're helping"" (not 100% if this is task-specific)",,,1,
+qr4b9h5rfk,o6tjynhmm8,2024-08-06T14:36:59-04:00,1_CONF,Case3,0_BL,0_AC,1,2,0.5,1,1,A,0,0,0,0,,,,43,
+rixk768iqu,1t1iowgtpt,2024-08-14T09:01:54-04:00,1_CONF,Case3,3_T3,1_SC,4,2,1,1,1,A,1,1,1,0,,32,112,108,43
+rpef5nl8ky,bk31g9rcg2,2024-08-06T14:44:00-04:00,1_CONF,Case3,0_BL,1_SC,1,20,2,1,1,A,1,1,0,1,Joke about drawing 39:30,,,50,
+sdpw089q9q,5v8j76pz75,2024-08-06T12:29:43-04:00,1_CONF,Case2,0_BL,1_SC,1,9,4.5,1,1,A,0,1,0,0,,,,10,
+sv1ln9v67n,esp6cu9pzb,2024-08-06T12:46:18-04:00,1_CONF,Case2,0_BL,1_SC,1,14,1,1,1,A,0,1,0,0,,,,16,
+tag1fa0kp1,5gjmgk39wy,2024-08-06T12:56:51-04:00,1_CONF,Case2,0_BL,1_SC,1,18,1,1,1,A,0,1,0,0,,,,21,
+tdquvppn2k,pocntkr3bb,2024-08-08T10:45:21-04:00,1_CONF,Case1,2_T2,1_SC,3,29,14.5,1,1,A,1,1,1,0,,29,78,102,37
+tfjkg475qi,bsn1hjye9t,2024-08-06T14:31:31-04:00,1_CONF,Case3,0_BL,1_SC,1,15,7.5,1,1,A,0,1,0,0,,,,41,
+tpu1le2y24,98uajjki8o,2024-08-06T10:11:30-04:00,1_CONF,Case1,0_BL,0_AC,1,1,0.5,1,1,A,0,1,1,1,Caregiver asked if she was allowed to give child treat 1:00,,,59,
+tqd8io78y1,d6l45fq2ri,2024-08-08T10:20:30-04:00,1_CONF,Case1,2_T2,1_SC,3,12,6,1,1,A,1,1,1,0,,12,61,85,20
+tz3akpx8zf,6wigo9hbom,2024-08-06T14:26:14-04:00,1_CONF,Case3,0_BL,1_SC,1,11,5.5,1,1,A,1,0,0,0,,,,37,
+u0e61zeiap,t6p5yz0wtq,2024-08-06T14:23:49-04:00,1_CONF,Case3,0_BL,1_SC,1,9,4.5,1,1,A,0,1,0,0,,,,35,
+u7tt56x4zn,ugqlglg8o0,2024-08-08T10:13:41-04:00,1_CONF,Case1,2_T2,1_SC,3,6,3,1,1,A,1,1,1,0,,6,55,79,14
+vlkta0y9ks,jnxcja4xzt,2024-08-16T09:16:59-04:00,1_CONF,Case4,5_RTB,0_AC,2,2,1,1,1,A,1,1,1,0,,,,143,
+vreldn5mvu,or7l6htn9m,2024-08-06T12:51:02-04:00,1_CONF,Case2,0_BL,1_SC,1,16,2,1,1,A,0,1,0,0,,,,18,
+w30gin0e3v,td0jgh3zuz,2024-08-06T14:50:08-04:00,1_CONF,Case3,0_BL,0_AC,1,3,0.5,1,1,A,0,1,0,0,,,,53,
+wn1ygertr5,el8hjvj4ae,2024-08-06T10:44:50-04:00,1_CONF,Case1,0_BL,1_SC,1,10,2,1,1,A,1,1,1,0,,,,70,
+wobjacr4f0,2ef79ggn0j,2024-08-07T09:43:56-04:00,1_CONF,Case3,1_T1,1_SC,2,7,3.5,1,1,A,1,1,0,0,,47,7,136,3
+xfafelu310,b2cv0nv2g0,2024-08-08T10:41:01-04:00,1_CONF,Case1,2_T2,1_SC,3,25,12.5,1,1,A,1,1,1,1,Confederate provided further coaching 33:00,25,74,98,33
+ydcxk6f2tw,2qbu30g72z,2024-08-16T09:15:07-04:00,1_CONF,Case4,5_RTB,0_AC,2,1,0.5,1,1,A,1,1,1,0,,,,142,
+ylwmempocs,gma9hpwu0p,2024-08-08T10:42:11-04:00,1_CONF,Case1,2_T2,1_SC,3,26,13,1,1,A,1,1,1,0,,26,75,99,34
+yo3ske4qqn,4r8z24dj0i,2024-08-08T10:18:01-04:00,1_CONF,Case1,2_T2,1_SC,3,10,5,1,1,A,0,1,1,0,,10,59,83,18
+z08uj7ac1w,yvdrlcvf6j,2024-08-06T10:53:19-04:00,1_CONF,Case1,0_BL,0_AC,1,3,0.5,1,1,A,1,1,1,0,,,,73,
+zmp0lp9k1f,vbjcyo6w6g,2024-08-06T10:19:27-04:00,1_CONF,Case1,0_BL,1_SC,1,3,1.5,1,1,A,1,1,1,1,Caregiver asked about whether she does the same thing every time 10:00,,,62,
+zom6it7q6a,awgsshyh5x,2024-08-06T12:22:07-04:00,1_CONF,Case2,0_BL,1_SC,1,4,2,1,1,A,0,1,0,0,,,,5,
+zqh67kai1y,ghbefk2p38,2024-08-06T14:13:50-04:00,1_CONF,Case3,0_BL,1_SC,1,1,0.5,1,1,A,0,0,0,0,,,,24,
+zqpztu3q7m,r1z1xqgpez,2024-08-06T10:39:34-04:00,1_CONF,Case1,0_BL,1_SC,1,7,0.5,1,1,A,0,0,1,0,,,,67,
+zsydrua0kw,ynl71yhho2,2024-08-14T09:09:11-04:00,1_CONF,Case3,3_T3,1_SC,4,10,5,1,1,A,1,1,1,0,,39,120,115,50
+m2oc7z1zit,kyy0ibw5h5,2024-08-14T09:04:59-04:00,1_CONF,Case3,3_T3,1_SC,4,5,2.5,1,0,B,1,1,1,0,,35,115,111,46
+5af6ra23cu,d58j6dfoi3,2024-08-08T10:43:38-04:00,1_CONF,Case1,2_T2,1_SC,3,27,13.5,0,1,C,1,1,1,0,,27,76,100,35
+jauk391j4r,bmtkxgoqu1,2024-08-06T12:33:30-04:00,1_CONF,Case2,0_BL,1_SC,1,11,5.5,0,1,C,0,1,0,0,,,,12,
+xmvhjmnp8d,383ug03yv7,2024-08-16T09:54:28-04:00,1_CONF,Case1,5_RTB,1_SC,6,1,0.5,0,1,C,1,1,1,0,,,,131,
+xmwo3ksvlr,eckfsmzhcu,2024-08-06T12:26:54-04:00,1_CONF,Case2,0_BL,1_SC,1,7,3.5,0,1,C,0,1,0,1,Joke about being old and having to get on the ground 17:45,,,8,
+1ruj52dgun,474p3aa70a,2024-08-14T09:57:47-04:00,1_CONF,Case2,5_RTB,0_AC,5,1,0.5,0,0,D,1,1,1,0,,,,130,
+2qwvmm07ui,nd0rmpg3pv,2024-08-08T10:36:47-04:00,1_CONF,Case1,2_T2,1_SC,3,22,11,0,0,D,1,1,1,1,,22,71,95,30
+2xq3906fvt,si6c6fsnir,2024-08-08T10:10:45-04:00,1_CONF,Case1,2_T2,1_SC,3,4,2,0,0,D,0,1,1,0,,4,53,77,12
+33u71gj78q,83jphwg4n3,2024-08-13T09:03:54-04:00,1_CONF,Case3,2_T2,1_SC,3,6,3,0,0,D,1,1,1,0,,44,102,123,41
+3he8tyx9gc,7bq0lhykpl,2024-08-06T14:46:18-04:00,1_CONF,Case3,0_BL,1_SC,1,22,3,0,0,D,0,0,0,0,,,,52,
+4p52jdcygg,iaz4s4xnef,2024-08-14T09:48:49-04:00,1_CONF,Case2,5_RTB,1_SC,5,4,2,0,0,D,1,1,1,0,,,,128,
+4wfnryqwqr,w6vx1qin9y,2024-08-06T10:16:49-04:00,1_CONF,Case1,0_BL,1_SC,1,1,0.5,0,0,D,0,0,1,1,"Small talk on ""Rob"" versus ""Robert"" 7:00",,,60,
+5323y3y8fp,x4dw78jy50,2024-08-06T12:20:36-04:00,1_CONF,Case2,0_BL,1_SC,1,3,1.5,0,0,D,0,0,1,0,,,,4,
+73v7awwxz6,rbbidk7at3,2024-08-14T09:05:59-04:00,1_CONF,Case3,3_T3,1_SC,4,6,3,0,0,D,1,1,1,0,,36,116,112,47
+77scmgllqe,mh1er4o7er,2024-08-08T10:16:57-04:00,1_CONF,Case1,2_T2,1_SC,3,9,4.5,0,0,D,1,1,1,0,,9,58,82,17
+7anv3ijurn,xunm7k7en3,2024-08-14T09:10:44-04:00,1_CONF,Case3,3_T3,1_SC,4,12,6,0,0,D,1,1,1,0,,41,122,117,52
+7o69hq0dlj,aiumr70ncy,2024-08-06T14:15:16-04:00,1_CONF,Case3,0_BL,1_SC,1,2,1,0,0,D,0,0,0,0,,,,25,
+8ie3mrou4h,mumw92rpde,2024-08-19T11:03:13-04:00,1_CONF,Case1,5_RTB,0_AC,7,2,1,0,0,D,1,1,1,0,,,,105,
+9jzbe1om92,d8x2z310fx,2024-08-08T10:27:09-04:00,1_CONF,Case1,2_T2,1_SC,3,17,8.5,0,0,D,1,1,1,0,,17,66,90,25
+ay9xpkvfkq,3n532r5jem,2024-08-06T14:27:32-04:00,1_CONF,Case3,0_BL,1_SC,1,12,6,0,0,D,0,0,1,0,,,,38,
+bk9wgqr4ul,axd74c2h1n,2024-08-14T09:51:40-04:00,1_CONF,Case2,5_RTB,1_SC,5,7,3.5,0,0,D,1,1,1,0,,,,129,
+bzpgcj844i,bxe7tfs2qu,2024-08-06T12:18:58-04:00,1_CONF,Case2,0_BL,1_SC,1,2,1,0,0,D,0,0,0,1,"Further explanation by confederate on when he will/not comply (""It's automated"") 9:05",,,3,
+e9jw781c6q,mexvv32614,2024-08-07T09:52:50-04:00,1_CONF,Case3,1_T1,1_SC,2,14,7,0,0,D,1,1,1,0,,49,14,138,5
+esxf9xbcco,2rgnz7tcni,2024-08-14T09:08:28-04:00,1_CONF,Case3,3_T3,1_SC,4,9,4.5,0,0,D,1,1,1,0,,38,119,114,49
+ezencmrird,373cjw34g9,2024-08-19T11:04:11-04:00,1_CONF,Case1,5_RTB,0_AC,7,3,1.5,0,0,D,1,1,1,0,Noticed that the child did eventually comply,,,106,
+gcxlocm6jn,vgkp8zjqzm,2024-08-08T10:25:56-04:00,1_CONF,Case1,2_T2,1_SC,3,16,8,0,0,D,1,1,1,0,,16,65,89,24
+grpy4vkmdw,arhq6xb8y5,2024-08-06T10:48:31-04:00,1_CONF,Case1,0_BL,1_SC,1,12,3,0,0,D,0,0,1,0,,,,72,
+jc1k7c9yem,rm8rmwo66j,2024-08-08T10:35:01-04:00,1_CONF,Case1,2_T2,1_SC,3,20,10,0,0,D,1,1,1,0,,20,69,93,28
+jjm57uwqzt,vioxlffn8a,2024-08-08T10:37:54-04:00,1_CONF,Case1,2_T2,1_SC,3,23,11.5,0,0,D,1,1,1,0,,23,72,96,31
+k7g0uooap7,6k6s3bu510,2024-08-08T10:08:21-04:00,1_CONF,Case1,2_T2,1_SC,3,2,1,0,0,D,0,0,1,0,,2,51,75,10
+l9qcvrx9ff,fr4p17schn,2024-08-08T10:21:57-04:00,1_CONF,Case1,2_T2,1_SC,3,13,6.5,0,0,D,1,1,1,0,,13,62,86,21
+mwwt50zvma,lgcbdih7g4,2024-08-08T10:14:44-04:00,1_CONF,Case1,2_T2,1_SC,3,7,3.5,0,0,D,1,1,1,0,,7,56,80,15
+nufa2j4q87,i3t0cqu8xo,2024-08-06T10:41:41-04:00,1_CONF,Case1,0_BL,1_SC,1,8,1,0,0,D,0,0,1,0,,,,68,
+nuojvsrak4,v889ikqgsy,2024-08-06T14:20:16-04:00,1_CONF,Case3,0_BL,1_SC,1,6,3,0,0,D,0,0,1,0,,,,29,
+nyhoddoted,rnyomg9e2p,2024-08-06T14:32:31-04:00,1_CONF,Case3,0_BL,1_SC,1,16,8,0,0,D,0,0,1,0,,,,42,
+o1n9nyvq1v,q4b896tlmn,2024-08-08T10:46:30-04:00,1_CONF,Case1,2_T2,1_SC,3,30,15,0,0,D,1,1,1,0,,30,79,103,38
+omyuc8kvj5,56g60rpg16,2024-08-08T10:19:06-04:00,1_CONF,Case1,2_T2,1_SC,3,11,5.5,0,0,D,1,1,1,0,,11,60,84,19
+ox85op7a90,b7fvxbjdpz,2024-08-06T12:47:31-04:00,1_CONF,Case2,0_BL,1_SC,1,15,1.5,0,0,D,1,1,1,0,,,,17,
+pzsi25ii78,njbe6kn9ga,2024-08-06T12:31:29-04:00,1_CONF,Case2,0_BL,1_SC,1,10,5,0,0,D,0,1,0,1,Caregiver asked confederate to get blanket 21:35,,,11,
+r8ruyihge5,6gfrzmpdlk,2024-08-14T09:03:42-04:00,1_CONF,Case3,3_T3,1_SC,4,4,2,0,0,D,1,1,1,0,,34,114,110,45
+rxji52j2gp,ncmbd91au8,2024-08-06T14:25:09-04:00,1_CONF,Case3,0_BL,1_SC,1,10,5,0,0,D,0,0,1,0,,,,36,
+rzwhywcd4l,7ng5gpmoms,2024-08-06T14:54:29-04:00,1_CONF,Case3,0_BL,1_SC,1,25,1.5,0,0,D,0,0,0,0,,,,56,
+t74m72d6ox,evzr333lzv,2024-08-16T09:58:10-04:00,1_CONF,Case1,5_RTB,1_SC,6,4,2,0,0,D,1,1,1,0,,,,132,
+uhz6scvrcf,x924pt7327,2024-08-07T09:40:13-04:00,1_CONF,Case3,1_T1,1_SC,2,4,2,0,0,D,1,1,1,0,,46,4,135,2
+v6h0qhxezv,syv0a0cypa,2024-08-06T14:30:17-04:00,1_CONF,Case3,0_BL,1_SC,1,14,7,0,0,D,0,0,1,0,,,,40,
+vgsfvs23id,czm9gzky8g,2024-08-06T14:21:23-04:00,1_CONF,Case3,0_BL,1_SC,1,7,3.5,0,0,D,0,0,1,0,,,,30,
+vqh7gfxcey,5y0bn6u2ew,2024-08-08T10:12:23-04:00,1_CONF,Case1,2_T2,1_SC,3,5,2.5,0,0,D,1,1,1,0,,5,54,78,13
+vws0jd4py3,37po94yfh9,2024-08-07T09:36:05-04:00,1_CONF,Case3,1_T1,1_SC,2,1,0.5,0,0,D,1,1,1,1,Looked like some technical difficulties that had to be navigated (1:00),45,1,134,1
+vx8357a2wu,sy8zy5mzg8,2024-08-06T14:42:38-04:00,1_CONF,Case3,0_BL,1_SC,1,19,1.5,0,0,D,0,0,0,0,,,,49,
+wfh37yc833,8e2xxkqr4y,2024-08-06T10:22:56-04:00,1_CONF,Case1,0_BL,1_SC,1,5,2.5,0,0,D,0,0,1,0,Whiteboard had incorrect trial # listed,,,64,
+wh09w5y1rs,yq5p630u2j,2024-08-06T10:43:28-04:00,1_CONF,Case1,0_BL,1_SC,1,9,1.5,0,0,D,0,0,1,0,,,,69,
+wieyal9grr,8nyisqr5pk,2024-08-06T14:17:42-04:00,1_CONF,Case3,0_BL,1_SC,1,4,2,0,0,D,0,0,0,1,Confederate noted repetitiveness to caregiver 13:00,,,27,
+x6snutud2j,ssh1t4owvj,2024-08-07T09:48:46-04:00,1_CONF,Case3,1_T1,1_SC,2,11,5.5,0,0,D,1,1,1,0,,48,11,137,4
+xd3xahzf81,ewxfrj18h2,2024-08-14T09:00:53-04:00,1_CONF,Case3,3_T3,1_SC,4,1,0.5,0,0,D,1,1,1,0,,31,111,107,42
+xzuoviw1k5,k54xjiw0n2,2024-08-06T14:52:05-04:00,1_CONF,Case3,0_BL,1_SC,1,23,0.5,0,0,D,0,0,1,0,,,,54,
+yq71aj4ndb,l8jyc3t9ic,2024-08-06T12:55:27-04:00,1_CONF,Case2,0_BL,1_SC,1,17,0.5,0,0,D,1,1,1,0,"child stayed in room, didn't seem to have impact on caregiver's behavior though",,,20,
+zp2oqbs26n,jiucokbggz,2024-08-06T12:23:44-04:00,1_CONF,Case2,0_BL,1_SC,1,5,2.5,0,0,D,1,1,1,1,Confederate said he forgot what he was supposed to do 14:15,,,6,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,81,84,80,Matrix_A,,,,,,,,
+,,,,,,,,,,56,53,1,Matrix_B,,,,,,,,
+,,,,,,,,,,,,4,Matrix_C,,,,,,,,
+,,,,,,,,,,,,52,Matrix_D,,,,,,,,
+,,,,,,,,,,,,132,AD_Count,,,,,,,,
+,,,,,,,,,,,,137,ABCD_Count,,,,,,,,
+,,,,,,,,,,,,0.96350365,P_o,,,,,,,,
+,,,,,,,,,,,,0.362512654,((A+B)*(A+C))/n,,,,,,,,
+,,,,,,,,,,,,0.158133092,((B+D)*(C+D))/n,,,,,,,,
+,,,,,,,,,,,,0.520645746,p_e,,,,,,,,
+,,,,,,,,,,,,0.442857904,P_o - P_e,,,,,,,,
+,,,,,,,,,,,,0.479354254,1 - P_e,,,,,,,,
+,,,,,,,,,,,,0.92386351,k,,,,,,,,

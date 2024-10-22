@@ -1,0 +1,20 @@
+Section,Cohen's Kappa,Percentage Agreement (%),Number of Observations,True Positive,False Positive,False Negative,True Negative,Total Agreement Count,Total Observation Count,Expected Agreement
+1_T1 - ConfMonitoring1 vs SelfMonitoring1,1.0,100.0,49,49,0,0,0,49,49,1.0
+1_T1 - ConfMonitoring2 vs SelfMonitoring2,1.0,100.0,49,49,0,0,0,49,49,1.0
+1_T1 - ConfMonitoring3 vs SelfMonitoring6,-0.025411061285500747,42.857142857142854,49,14,23,5,7,21,49,0.4427321949187838
+1_T1 - ConfMonitoring4 vs SelfMonitoring6a_1,0.0,65.3061224489796,49,32,17,0,0,32,49,0.6530612244897959
+1_T1 - ConfMonitoring5 vs SelfMonitoring6a_2,0.0,95.91836734693877,49,47,2,0,0,47,49,0.9591836734693877
+1_T1 - ConfMonitoring6 vs SelfMonitoring6a_3,0.0,51.02040816326531,49,25,24,0,0,25,49,0.5102040816326531
+2_T2 - ConfMonitoring3 vs SelfMonitoring3,0.0,69.23076923076923,52,36,16,0,0,36,52,0.6923076923076923
+2_T2 - ConfMonitoring4 vs SelfMonitoring4,0.13947990543735234,73.07692307692307,52,36,13,1,2,38,52,0.687130177514793
+2_T2 - ConfMonitoring5 vs SelfMonitoring5,0.0,98.07692307692307,52,51,1,0,0,51,52,0.9807692307692307
+3_T3 - ConfMonitoring1 vs SelfMonitoring1,1.0,100.0,26,26,0,0,0,26,26,1.0
+3_T3 - ConfMonitoring2 vs SelfMonitoring2,1.0,100.0,26,26,0,0,0,26,26,1.0
+3_T3 - ConfMonitoring3 vs SelfMonitoring3,0.0,96.15384615384616,26,25,1,0,0,25,26,0.9615384615384616
+3_T3 - ConfMonitoring4 vs SelfMonitoring4,1.0,100.0,26,26,0,0,0,26,26,1.0
+3_T3 - ConfMonitoring5 vs SelfMonitoring5,1.0,100.0,26,26,0,0,0,26,26,1.0
+3_T3 - ConfMonitoring6 vs SelfMonitoring6,0.5384615384615384,76.92307692307693,26,13,6,0,7,20,26,0.5
+3_T3 - ConfMonitoring6a_1 vs SelfMonitoring6a_1,0.0,96.15384615384616,26,25,1,0,0,25,26,0.9615384615384616
+3_T3 - ConfMonitoring6a_2 vs SelfMonitoring6a_2,0.0,96.15384615384616,26,25,1,0,0,25,26,0.9615384615384616
+3_T3 - ConfMonitoring6a_3 vs SelfMonitoring6a_3,1.0,100.0,26,26,0,0,0,26,26,1.0
+Omnibus - Entire Set,0.0747548562693412,82.1969696969697,528,427,82,12,7,434,528,0.8075858011937558
