@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository is part of my dissertation project at Central Michigan University, focusing on a technology-assisted caregiver training program. The program is designed to support caregivers of children with behavioral challenges through video modeling and self-monitoring delivered via mobile devices. The goal is to enhance caregivers' ability to provide effective guidance to children in everyday settings.
+This repository is part of my dissertation project at Central Michigan University, focusing on a technology-assisted caregiver training program. The program is designed to support caregivers of children through video modeling and self-monitoring delivered via mobile devices. The goal is to enhance caregivers' ability to provide effective guidance to children in everyday settings.
 
 ## Contents
 
