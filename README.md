@@ -9,7 +9,6 @@ This repository is part of my dissertation project at Central Michigan Universit
 
 - **Qualtrics Survey Design**: Detailed documentation on how the caregiver and researcher surveys were designed using Qualtrics, which are integral parts of the study. [Caregiver and Researcher Guide Documentation](https://github.com/rdwyse/TechCT/blob/main/TechCT%20-%20%20Caregiver%20and%20Researcher%20Guide%20Documentation.md)
 - **Data Management Documentation**: Comprehensive details on how data for the dissertation project is collected, stored, and analyzed. This documentation ensures data integrity and compliance with research standards. [Data Management Documentation](https://github.com/rdwyse/TechCT/blob/main/TechCT%20-%20Data%20Management%20Documentation.md)
-- 
 - **Figures and Tables**: Visual aids and data that support the findings and analyses in the dissertation.
 - **References and Appendices**: Supporting documentation and additional resources referenced in the dissertation.
 
