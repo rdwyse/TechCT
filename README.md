@@ -15,3 +15,7 @@ This repository is part of my dissertation project at Central Michigan Universit
 ## Usage
 
 This repository supports the dissertation research process. These materials are prepared for maintance of the project, critical analysis of the studies procedures, and dissemination. Please refer to the `Caregiver and Research Guide Documentation` for experimental methodology and the `Data Management Documentation` for managing and analyzing the collected data.
+
+
+
+[![Watch the video](https://www.wyseeyesphoto.com/store/Dissertation/3minVIdcaption.jpg)](https://www.wyseeyesphoto.com/store/Dissertation/Training%20Overview%203%20min%20lo%20res.mp4)
