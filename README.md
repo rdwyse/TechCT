@@ -1,12 +1,17 @@
 # TechCT: Technology-Assisted Caregiver Training Program
 
-**Dissertation Defense UPDATE**
+**Dissertation Defense UPDATE 11/5/24**
 
 Robert Dale Wyse, MS  
 Doctoral Candidate, School Psychology  
-<br/>226 Rowe Hall, Central Michigan University  
-Thursday, November 7th, 2024 – 2:00 PM  
+
+Thursday, November 7th, 2024 – 2:00 PM 
+
 [Virtual Attendance Link](https://tinyurl.com/WyseDefense)
+
+<br/>226 Rowe Hall, Central Michigan University<br>
+Mt. Pleasant, Michigan 48849 <br>
+https://maps.app.goo.gl/9TiPrXAgbSh7gGCDA
 
 **Committee Members**
 
@@ -21,6 +26,42 @@ Associate Professor, Central Michigan University
 Jason Vladescu, Ph.D., BCBA-D, LBA(NY), NCSP  
 Professor, SUNY Downstate Health Sciences University  
 [Link to bio](https://www.downstate.edu/faculty/health-professions/applied-behavior-analysis/vladescu.html)
+
+**Defense Agenda**
+
+2:00 PM \- Opening Remarks  
+ *The Chair will provide an introduction and outline the structure of the defense proceedings.*
+
+2:05 PM \- Dissertation Presentation  
+ *The Candidate will present their dissertation research, including an overview of the study, key findings, and contributions to the field. Clarifying questions may be asked by the committee and public during the presentation.*
+
+2:45 PM \- Public Forum  
+ *The floor will be open for questions and comments from the public audience.*
+
+3:00 PM Committee Examination  
+ *The Committee will engage the candidate in a critical analysis of the dissertation.*
+
+3:30 PM \- Dismissal of the Public  
+ *The Public will be asked to leave the room at this time.*
+
+Private Examination  
+ *The Committee will continue the discussion privately with the candidate, allowing for further questions and clarifications.*
+
+Committee Deliberation  
+ *The Candidate will exit the room while the committee deliberates privately to reach a decision.*
+
+Private Decision Delivery  
+ *The Candidate will return to the room and the committee will deliver their decision and feedback.*
+
+**Post Defense Events**
+
+4:15 PM \- Guided Ziibiwing Center Tour  
+ *You are invited as a guest to the Ziibiwing Center for a guided tour of cultural exhibits and learning opportunities presented by the Saginaw Chippewa Indian Tribe. All are welcome.*  
+ *Ziibiwing Center: 6650 E Broadway Rd, Mt Pleasant, MI 48858*
+
+5:45 PM \- Feast and Fellowship  
+ *Join for appetizers, dinner if you choose, discourse, and fellowship.*  
+ *Los Aztecas Mexican Grill and Bar: 4445 E Blue Grass Rd, Mt Pleasant, MI 48858*
 
 ## Overview
 
