@@ -3,8 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Hard-coded file path for the CSV file
-input_file_path = r'D:\OneDrive\OneDrive - Central Michigan University\TechCT\TechCT - Public Repository\Public - GitHub - TechCT\Data Extraction\Visualization\TechCT - 2024.10.21 - CONF_SC - All Trials - CSV - V1.csv'
-
+input_file_path = r'D:\OneDrive\OneDrive - Central Michigan University\TechCT\TechCT - Public Repository\Public - GitHub - TechCT\TechCT - Materials\Data Tools\Visualization\TechCT - 2024.10.21 - CONF_SC - All Trials - CSV - V1.csv'
 # Load the CSV file into a DataFrame
 df = pd.read_csv(input_file_path)
 
