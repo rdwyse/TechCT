@@ -1,27 +1,5 @@
 # TechCT: Technology-Assisted Caregiver Training Program
 
-**Dissertation Defense UPDATE**
-
-Robert Dale Wyse, MS  
-Doctoral Candidate, School Psychology  
-<br/>226 Rowe Hall, Central Michigan University  
-Thursday, November 7th, 2024 – 2:00 PM  
-[Virtual Attendance Link](https://tinyurl.com/WyseDefense)
-
-**Committee Members**
-
-Michael D. Hixson, Ph.D., BCBA-D (Chair)  
-Professor, Central Michigan University  
-[Link to bio](https://www.cmich.edu/people/MICHAEL-D-HIXSON)
-
-Daniel D. Drevon, Ph.D., LP, NCSP  
-Associate Professor, Central Michigan University  
-[Link to bio](https://www.cmich.edu/people/DANIEL-D-DREVON)
-
-Jason Vladescu, Ph.D., BCBA-D, LBA(NY), NCSP  
-Professor, SUNY Downstate Health Sciences University  
-[Link to bio](https://www.downstate.edu/faculty/health-professions/applied-behavior-analysis/vladescu.html)
-
 ## Overview
 
 This repository is part of my dissertation project at Central Michigan University, focusing on a technology-assisted caregiver training program. The program is designed to support caregivers of children through video modeling and self-monitoring delivered via mobile devices. The goal is to enhance caregivers' ability to provide effective guidance to children in everyday settings.
