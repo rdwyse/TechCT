@@ -17,4 +17,4 @@ This repository supports the dissertation research process. These materials are 
 
 
 
-[![Watch the video](https://photography.themillservices.com/store/3%20Min.jpg)](https://photography.themillservices.com/store/Dissertation/Training%20Overview%203%20min%20lo%20res.mp4)
+[![Watch the video](https://photography.themillservices.com/store/Dissertation/3minVIdcaption.jpg)](https://photography.themillservices.com/store/Dissertation/Training%20Overview%203%20min%20lo%20res.mp4)
